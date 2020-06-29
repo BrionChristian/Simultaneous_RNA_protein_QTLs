@@ -1,0 +1,11 @@
+Name	Type	Start	End	direct
+pRS425-mCH	plasmid	1	7724	no
+ColE1	rep_origin	473	1155	no
+AmpR	gene	1250	2110	Reverse
+AmpRp	promoter	2111	2215	Reverse
+2u	rep_origin	2245	3585	no
+LEU2	gene	4315	5409	Reverse
+LEU2p	promoter	5410	5826	Reverse
+M13	rep_origin	6126	6581	no
+mCYC1p	promoter	6801	7003	Forward
+mCherry	gene	7004	7714	Forward

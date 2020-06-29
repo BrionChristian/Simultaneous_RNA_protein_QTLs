@@ -1,0 +1,14 @@
+Name	Type	Start	End	direct
+pTRP-CEN-dcas9	plasmid	1	10177	no
+pACT1	promoter	7	673	Forward
+dCAS9	gene	734	4834	Forward
+VP64	gene	4871	5020	Forward
+tCYC1	terminater	5036	5283	Reverse
+ColE1_ori	rep_origin	5730	6412	no
+pAmpR	promoter	7368	7472	Reverse
+AmpR	gene	6507	7367	Reverse
+trp1p	promoter	7933	8034	Forward
+TRP	gene	8035	8709	Forward
+trp1t	terminater	8710	8755	Reverse
+M13	rep_origin	8808	9263	no
+CEN	rep_origin	9660	10170	no

@@ -1,0 +1,16 @@
+Name	Type	Start	End	direct
+pdCAS9int	plasmid	1	11799	no
+tTEF	terminater	105	302	Forward
+KanMK	gene	308	1117	Reverse
+pTEF	promoter	1118	1461	Reverse
+pAmpR	promoter	1601	1705	Forward
+AmpR	gene	1706	2566	Forward
+ColE1	rep_origin	2737	3325	no
+tCYC1	terminater	3790	4037	Forward
+VP64	gene	4053	4202	Reverse
+dCAS9	gene	4239	8339	Reverse
+pACT1	promoter	8400	9066	Reverse
+mCherry	gene	9077	9787	Reverse
+pCYCm	promoter	9788	9990	Reverse
+NPR2_end	gene	9991	11042	Forward
+NPR2_start	gene	11047	11799	Forward
