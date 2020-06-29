@@ -1,0 +1,9 @@
+	1	2	3	4	5	6	7	8	9	10	11	12
+A	BYZt-2u-empty-250-1	BYZt-2u-empty-16-1	BYZt-2u-empty-2-1	BYZt-2u-empty-0-1	BYZt-2u-empty-250-2	BYZt-2u-empty-16-2	BYZt-2u-empty-2-2	BYZt-2u-empty-0-2	BYZt-2u-empty-250-3	BYZt-2u-empty-16-3	BYZt-2u-empty-2-3	BYZt-2u-empty-0-3
+B	BYZt-2u-mCH-250-1	BYZt-2u-mCH-16-1	BYZt-2u-mCH-2-1	BYZt-2u-mCH-0-1	BYZt-2u-mCH-250-2	BYZt-2u-mCH-16-2	BYZt-2u-mCH-2-2	BYZt-2u-mCH-0-2	BYZt-2u-mCH-250-3	BYZt-2u-mCH-16-3	BYZt-2u-mCH-2-3	BYZt-2u-mCH-0-3
+C	BYZt-2u-CAS9-250-1	BYZt-2u-CAS9-16-1	BYZt-2u-CAS9-2-1	BYZt-2u-CAS9-0-1	BYZt-2u-CAS9-250-2	BYZt-2u-CAS9-16-2	BYZt-2u-CAS9-2-2	BYZt-2u-CAS9-0-2	BYZt-2u-CAS9-250-3	BYZt-2u-CAS9-16-3	BYZt-2u-CAS9-2-3	BYZt-2u-CAS9-0-3
+D	BYZt-CEN-empty-250-1	BYZt-CEN-empty-16-1	BYZt-CEN-empty-2-1	BYZt-CEN-empty-0-1	BYZt-CEN-empty-250-2	BYZt-CEN-empty-16-2	BYZt-CEN-empty-2-2	BYZt-CEN-empty-0-2	BYZt-CEN-empty-250-3	BYZt-CEN-empty-16-3	BYZt-CEN-empty-2-3	BYZt-CEN-empty-0-3
+E	BYZt-CEN-mCH-250-1	BYZt-CEN-mCH-16-1	BYZt-CEN-mCH-2-1	BYZt-CEN-mCH-0-1	BYZt-CEN-mCH-250-2	BYZt-CEN-mCH-16-2	BYZt-CEN-mCH-2-2	BYZt-CEN-mCH-0-2	BYZt-CEN-mCH-250-3	BYZt-CEN-mCH-16-3	BYZt-CEN-mCH-2-3	BYZt-CEN-mCH-0-3
+F	BYZt-CEN-CAS9-250-1	BYZt-CEN-CAS9-16-1	BYZt-CEN-CAS9-2-1	BYZt-CEN-CAS9-0-1	BYZt-CEN-CAS9-250-2	BYZt-CEN-CAS9-16-2	BYZt-CEN-CAS9-2-2	BYZt-CEN-CAS9-0-2	BYZt-CEN-CAS9-250-3	BYZt-CEN-CAS9-16-3	BYZt-CEN-CAS9-2-3	BYZt-CEN-CAS9-0-3
+G	Blanc	Blanc	Mahlon	Mahlon	Mahlon	Mahlon	Mahlon	Mahlon	Mahlon	Mahlon	Mahlon	Mahlon
+H	Mahlon	Mahlon	Mahlon	Mahlon	Mahlon	Mahlon	Mahlon	Mahlon	Mahlon	Mahlon	Mahlon	Mahlon
