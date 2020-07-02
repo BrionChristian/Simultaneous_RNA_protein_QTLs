@@ -1,0 +1,2 @@
+Bam_file	TIN(mean)	TIN(median)	TIN(stdev)
+pseudoalignmentsB5.bam	75.1354202320577	81.00926859590216	15.612120295331335

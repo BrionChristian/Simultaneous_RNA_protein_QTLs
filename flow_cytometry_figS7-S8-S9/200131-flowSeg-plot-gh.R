@@ -1,8 +1,12 @@
-setwd("C:/Users/brion/Dropbox/Gdrive/MN_postdoc/diverR/200131-FlowSegPlot")
+
+
+setwd("YOUR/WORKING/DIRECTORY")
 heri<-read.table("Heritability.txt",header = T,sep = "\t", quote = "", na.strings = "",stringsAsFactors = F)
 heri<-read.table("HeritabilitySc.txt",header = T,sep = "\t", quote = "", na.strings = "",stringsAsFactors = F)
 heriD<-read.table("HeritabilityScD.txt",header = T,sep = "\t", quote = "", na.strings = "",stringsAsFactors = F)
 correl<-read.table("CorrelFluo.txt",header = T,sep = "\t", quote = "", na.strings = "",stringsAsFactors = F)
+
+
 
 genes<-levels(as.factor(correl$strains))
 genesO<-genes[c(1,2,5,7,12,4,9,11,3,10,8,6)]
