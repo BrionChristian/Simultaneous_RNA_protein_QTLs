@@ -1,0 +1,2 @@
+ref1	ref2	conca	chromo	maxIndex	maxValue	leftIndex	rightIndex	deltaHight_Low
+GPD1_a_1_1_5	GPD1_a_3_1_5	GPD1_a_1_1_5 GPD1_a_3_1_5	15	152600	3.86	111900	241600	0.0732975815978603

@@ -1,0 +1,2 @@
+ref1	ref2	conca	chromo	maxIndex	maxValue	leftIndex	rightIndex	deltaHight_Low
+CYC1_a_1_1_1	CYC1_a_2_1_1	CYC1_a_1_1_1 CYC1_a_2_1_1	15	1014600	3.13	968200	1074300	-0.0366794771242951

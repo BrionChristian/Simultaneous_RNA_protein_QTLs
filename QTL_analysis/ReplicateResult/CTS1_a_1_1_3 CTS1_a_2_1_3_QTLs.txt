@@ -1,0 +1,3 @@
+ref1	ref2	conca	chromo	maxIndex	maxValue	leftIndex	rightIndex	deltaHight_Low
+CTS1_a_1_1_3	CTS1_a_2_1_3	CTS1_a_1_1_3 CTS1_a_2_1_3	8	202000	3.8	44200	281300	-0.0683941819926672
+CTS1_a_1_1_3	CTS1_a_2_1_3	CTS1_a_1_1_3 CTS1_a_2_1_3	15	548500	7	493400	620900	0.0979663079396267
