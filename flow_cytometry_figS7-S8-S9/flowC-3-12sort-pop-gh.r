@@ -4,7 +4,7 @@ library(plyr)
 library(data.table)
 par(mfrow = c(1, 1))
 
-setwd("/home/christian/Dropbox/Gdrive/MN_postdoc/diverR")
+setwd("YOUR/WORKING/DIRECTORY")
 file<-all[1]
 
 import_dataO <- function(file){
@@ -32,9 +32,9 @@ import_data1 <- function(file){
   return(mdata)
 }
 
-all = list.files(path="/home/christian/Dropbox/Gdrive/MN_postdoc/diverR/180417-Sort-TDH3MTD1UGP1/180419-CHB-Sort32", pattern = ".fcs", full = TRUE)
+all = list.files(path="180419-CHB-Sort32", pattern = ".fcs", full = TRUE)
 data_all = ldply(all, import_dataO) #plyr library
-all2 = list.files(path="/home/christian/Dropbox/Gdrive/MN_postdoc/diverR/180327-Flow-epQTL3/Sort_3-1-180328", pattern = ".fcs", full = TRUE)
+all2 = list.files(path="Sort_3-1-180328", pattern = ".fcs", full = TRUE)
 data_all2 = ldply(all2, import_data1) #plyr library
 colnames(data_all)[colnames(data_all)=="eGFP.A"]<-"GFP.A"
 colnames(data_all2)[colnames(data_all2)=="eGFP.A"]<-"GFP.A"

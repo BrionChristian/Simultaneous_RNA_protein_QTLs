@@ -4,11 +4,11 @@ library(plyr)
 library(data.table)
 par(mfrow = c(1, 1))
 
-setwd("/home/christian/Dropbox/Gdrive/MN_postdoc/diverR")
+setwd("YOUR/WORKING/DIRECTORY")
 file<-all[1]
 
 
-infoplate<-read.csv("/home/christian/Dropbox/Gdrive/MN_postdoc/diverR/181119-FLOW-Sort-GPD1rep/flowHeri/matSample.txt", sep="\t",header = T)
+infoplate<-read.csv("181119matSample.txt", sep="\t",header = T)
 
 import_dataO <- function(file){
   x = unlist(strsplit(basename(file), "\\."))[1]
@@ -26,7 +26,7 @@ import_dataO <- function(file){
   return(mdata)
 }
 
-all = list.files(path="/home/christian/Dropbox/Gdrive/MN_postdoc/diverR/181119-FLOW-Sort-GPD1rep/flowHeri/sort181119", pattern = "Specimen", full = TRUE)
+all = list.files(path="sort181119", pattern = "Specimen", full = TRUE)
 data_all = ldply(all, import_dataO) #plyr library
 colnames(data_all)[colnames(data_all)=="eGFP.A"]<-"GFP.A"
 
