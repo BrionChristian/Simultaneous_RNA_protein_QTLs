@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="pipeline_flowChart.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.71446409"
+     inkscape:cx="396.80091"
+     inkscape:cy="1257.586"
+     inkscape:window-width="2400"
+     inkscape:window-height="1261"
+     inkscape:window-x="2391"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-dasharray:0.600001, 0.600001"
+       id="rect850"
+       width="80"
+       height="40"
+       x="11.794779"
+       y="6.6658354" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-dasharray:0.600001, 0.600001"
+       id="rect874"
+       width="80"
+       height="80"
+       x="11.794779"
+       y="60.360985" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-dasharray:0.600001, 0.600001"
+       id="rect876"
+       width="60"
+       height="60"
+       x="21.794779"
+       y="77.025574" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-dasharray:0.600001, 0.600001"
+       id="rect876-8"
+       width="60"
+       height="60"
+       x="-101.8935"
+       y="203.2516" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-dasharray:0.600001, 0.600001"
+       id="rect850-5"
+       width="80"
+       height="40"
+       x="11.794779"
+       y="153.62852" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-dasharray:0.600001, 0.600001"
+       id="rect850-5-8"
+       width="80"
+       height="40"
+       x="11.794779"
+       y="254.56874" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-dasharray:0.600001, 0.600001"
+       id="rect850-5-8-0"
+       width="80"
+       height="40"
+       x="11.794779"
+       y="302.50632" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-dasharray:0.600001, 0.600001"
+       id="rect850-5-8-3"
+       width="80"
+       height="40"
+       x="11.794779"
+       y="353.61899" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-dasharray:0.600001, 0.600001"
+       id="rect850-5-8-3-4"
+       width="80"
+       height="40"
+       x="11.794779"
+       y="405.79001" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="49.244389"
+       y="24.071072"
+       id="text3011"><tspan
+         sodipodi:role="line"
+         id="tspan3009"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="49.244389"
+         y="24.071072">WGS reads NCBI SRA</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="49.244389"
+         y="29.362734"
+         id="tspan27733">BioProject PRJNA644804</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-dasharray:0.600001, 0.600001"
+       id="rect850-5-88"
+       width="80"
+       height="40"
+       x="117.01746"
+       y="61.521172" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-dasharray:0.600001, 0.600001"
+       id="rect850-5-88-7"
+       width="80"
+       height="40"
+       x="117.01746"
+       y="106.2837" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="157.2989"
+       y="80.734024"
+       id="text3011-0"><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="157.2989"
+         y="80.734024"
+         id="tspan27733-6">sacCer3.fa</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="158.40987"
+       y="123.69162"
+       id="text3011-0-5"><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="158.40987"
+         y="123.69162"
+         id="tspan27733-6-0">SNPs_Maggie_170809</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="158.40987"
+         y="128.98328"
+         id="tspan58890">_BY_positions.txt</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-26.056522"
+       y="8.308116"
+       id="text3011-7"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="-26.056522"
+         y="8.308116"
+         id="tspan27733-5">NCBI SRA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-96.84478"
+       y="8.5771494"
+       id="text3011-7-2"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="-96.84478"
+         y="8.5771494"
+         id="tspan27733-5-0">Process_reads</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-84.167984"
+       y="203.30598"
+       id="text3011-7-2-5"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="-84.167984"
+         y="203.30598"
+         id="tspan27733-5-0-8">Process_reads</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-126.75526"
+       y="203.67632"
+       id="text3011-7-2-5-2"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="-126.75526"
+         y="203.67632"
+         id="tspan27733-5-0-8-8">Process_reads</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="52.293224"
+       y="67.495903"
+       id="text3011-0-2"><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="52.293224"
+         y="67.495903"
+         id="tspan27733-6-6">processAFolder_170809_31.sh</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="52.943954"
+       y="93.319702"
+       id="text3011-0-2-5"><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="52.943954"
+         y="93.319702"
+         id="tspan27733-6-6-9">mapFilterCount_4Cluster_180109.sh</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="51.092335"
+       y="159.97804"
+       id="text3011-0-2-2"><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="51.092335"
+         y="159.97804"
+         id="tspan27733-6-6-2">...sort_filtered_rmdup.vcf</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="53.314281"
+       y="212.56409"
+       id="text3011-0-2-3"><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="53.314281"
+         y="212.56409"
+         id="tspan27733-6-6-7">Single_analysis_gh.R</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-74.817894"
+       y="214.41571"
+       id="text3011-0-2-1"><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="-74.817894"
+         y="214.41571"
+         id="tspan27733-6-6-1">processAFolder_170809_31.sh</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-74.447563"
+       y="228.11771"
+       id="text3011-0-2-18"><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="-74.447563"
+         y="228.11771"
+         id="tspan27733-6-6-5">processAFolder_170809_31.sh</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-75.928856"
+       y="237.74612"
+       id="text3011-0-2-27"><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="-75.928856"
+         y="237.74612"
+         id="tspan27733-6-6-59">processAFolder_170809_31.sh</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-63.708172"
+       y="250.33716"
+       id="text3011-0-2-4"><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="-63.708172"
+         y="250.33716"
+         id="tspan27733-6-6-23">processAFolder_170809_31.sh</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="47.759418"
+       y="261.33182"
+       id="text3011-0-2-44"><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="47.759418"
+         y="261.33182"
+         id="tspan27733-6-6-4">YDL022W_GPD1_a_0_1_1_C12.RData</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="49.240715"
+       y="314.9762"
+       id="text3011-0-2-7"><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="49.240715"
+         y="314.9762"
+         id="tspan27733-6-6-43">AnalysesxQTL-gh.R</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="44.796825"
+       y="361.47919"
+       id="text3011-0-2-78"><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="44.796825"
+         y="361.47919"
+         id="tspan27733-6-6-42">YDL022W_GPD1_a_0_1_multipoolResults.RData</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="48.500065"
+       y="416.44699"
+       id="text3011-0-2-39"><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="48.500065"
+         y="416.44699"
+         id="tspan27733-6-6-91">AnalysesxQTLfinal-gh.R</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-dasharray:0.600001, 0.600001"
+       id="rect850-5-8-7"
+       width="80"
+       height="40"
+       x="12.956358"
+       y="206.26808" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-dasharray:0.600001, 0.600001"
+       id="rect850-5-8-0-0"
+       width="80"
+       height="40"
+       x="110.35162"
+       y="302.55237" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="147.79756"
+       y="315.02225"
+       id="text3011-0-2-7-5"><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="147.79756"
+         y="315.02225"
+         id="tspan27733-6-6-43-1">AnalysesxQTLrep-gh.R</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-dasharray:0.600001, 0.600001"
+       id="rect850-5-8-3-0"
+       width="80"
+       height="40"
+       x="109.98129"
+       y="353.2868" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="162.98085"
+       y="361.51733"
+       id="text3011-0-2-78-8"><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="162.98085"
+         y="361.51733"
+         id="tspan27733-6-6-42-6">ARO8_a_0_1_1 ARO8_a_1_1_1_multipoolResults.RData</tspan></text>
+  </g>
+</svg>

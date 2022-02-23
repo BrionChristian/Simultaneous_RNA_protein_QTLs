@@ -40,7 +40,7 @@ final_eQTL <- read.table("/home/christian/Dropbox/Gdrive/MN_postdoc/diverR/eQTLF
 geneQTG <- read.table("/home/christian/Dropbox/Gdrive/MN_postdoc/diverR/eQTLFrank/genes_RMBY_variant.txt",header = T,sep = "\t", quote = "", na.strings = "",stringsAsFactors = F,comment.char = "")
 geneQTG<-geneQTG[!(is.na(geneQTG$chr)),]
 
-experimentFile <- read.table(paste(alignmentDir,"AllPoprecap.txt",sep=""), stringsAsFactors=FALSE, head=TRUE)
+experimentFile <- read.table(paste(alignmentDir,"/Scripts/AllPoprecap.txt",sep=""), stringsAsFactors=FALSE, head=TRUE)
 
 experimentFile$tube<-paste(experimentFile$gene,experimentFile$crispr,experimentFile$rep,experimentFile$tech,sep="_")
 experimentFile2<-experimentFile[experimentFile$tube!= "GPD1_a_3_2",] #experimentFile$crispr!='i' & 
