@@ -5,58 +5,10 @@ library(reshape2)
 alignmentDir <- "C:/Users/brion/Dropbox/Gdrive/MN_postdoc/diverR/190208-AllQTLprocess/"
 setwd(alignmentDir)
 
-#library("VariantAnnotation")
-source(paste(alignmentDir,"/Scripts/gTest.R",sep=""))
-source(paste(alignmentDir,"/Scripts/x_qtl_seq_functions_170831.R",sep=""))
-source(paste(alignmentDir,"/Scripts/mp_JB_170901.R",sep=""))
-source(paste(alignmentDir,"/Scripts/peaksFromVector.R",sep=""))
 
-
-#set all parameter for politing and analysis
-i = 1
-sepBetweenChr <- 1e5
-trimFromEnd = 15e3
-obsMin <- 10
-LoessSpan = 0.1
-AFThres = 0.09653124 # same as in Albert 2014
-multiThres = 3 # LOD threshold for multipool, if run with N=1000: 4.5
-withMultipool <- TRUE
-
-#get external table: variants, chromosomes, genes
-SNPs <- read.table(paste(alignmentDir,"/Scripts/SNPs_Maggie_170809_BY_positions.txt",sep=""), stringsAsFactors=FALSE, head=FALSE)
-# see comments above. As of 8/31/17, the SNPs seem not to be fully filtered, and are out of sorting order
-for (thisChr in unique(SNPs[,1])){SNPs[SNPs[,1] == thisChr, 2] <- sort(SNPs[SNPs[,1] == thisChr, 2])}
-SNPs <- rbind(SNPs[SNPs[,1] == "chrI",], SNPs[SNPs[,1] == "chrII",], SNPs[SNPs[,1] == "chrIII",], SNPs[SNPs[,1] == "chrIV",], SNPs[SNPs[,1] == "chrV",], SNPs[SNPs[,1] == "chrVI",], SNPs[SNPs[,1] == "chrVII",], SNPs[SNPs[,1] == "chrVIII",], SNPs[SNPs[,1] == "chrIX",], SNPs[SNPs[,1] == "chrX",], SNPs[SNPs[,1] == "chrXI",], SNPs[SNPs[,1] == "chrXII",], SNPs[SNPs[,1] == "chrXIII",], SNPs[SNPs[,1] == "chrXIV",], SNPs[SNPs[,1] == "chrXV",], SNPs[SNPs[,1] == "chrXVI",])
-sgd_table <- paste(alignmentDir,"/Scripts/sacCer3ChromLenghts.txt",sep="")
-chrInfo = read.table(sgd_table, stringsAsFactors=FALSE, sep="\t", header=F)
-geneInfo = read.table(paste(alignmentDir,"/Scripts/ensemblGenes_ensembl83_160307_MOD.txt",sep=""), stringsAsFactors=FALSE, sep="\t", header=TRUE)
-rownames(geneInfo) <- geneInfo[,"geneID"]
-allNames <- geneInfo[, "geneName"]
-names(allNames) <- geneInfo[,1]
-allNames[which(allNames == "")] <- names(allNames)[which(allNames == "")]
-allNamesInv <- names(allNames)
-names(allNamesInv) <- allNames
-chromosome<-unique(SNPs[,1])
-
-#Albert et al data: pQTL and eQTL
-xpQTL <- read.table("C:/Users/brion/Dropbox/Gdrive/MN_postdoc/Biblio/Frank_eQTL_pQTL/xpQTLs.txt",header = T,sep = "\t", quote = "", na.strings = "NA",stringsAsFactors = F)
-final_eQTL <- read.table("C:/Users/brion/Dropbox/Gdrive/MN_postdoc/diverR/eQTLFrank/final_eQTL.txt",header = T,sep = "\t", quote = "", na.strings = "NA",stringsAsFactors = F,comment.char = "")
-geneQTG <- read.table("C:/Users/brion/Dropbox/Gdrive/MN_postdoc/diverR/eQTLFrank/genes_RMBY_variant.txt",header = T,sep = "\t", quote = "", na.strings = "",stringsAsFactors = F,comment.char = "")
-geneQTG<-geneQTG[!(is.na(geneQTG$chr)),]
-
-#table with summury of all the QTL experiment
-experimentFile <- read.table(paste(alignmentDir,"AllPoprecap.txt",sep=""), stringsAsFactors=FALSE, head=TRUE, na.strings = "")
-experimentFile$tube<-paste(experimentFile$gene,experimentFile$crispr,experimentFile$rep,experimentFile$tech,sep="_")
-experimentFile$exp<-paste(experimentFile$gene,substr(experimentFile$crispr,1,1),sep="_")
-experimentFile$globrep<-paste(substr(experimentFile$crispr,2,2),experimentFile$rep,experimentFile$tech,sep="_")
-experimentFile2<-experimentFile[experimentFile$crispr!='i' & experimentFile$tube!= "GPD1_a_3_2" & experimentFile$tube!="RPS10A_a_2_1",]
-experimentFile3<-experimentFile[experimentFile$gene=='NA',] #experimentFile$crispr!='i' &
-experimentFile2<-rbind(experimentFile2,experimentFile3)
-levels(as.factor(experimentFile2$tube))
-levels(as.factor(experimentFile2$exp))
-levels(as.factor(experimentFile2$globrep))
 
 initialtable<-read.table(paste(alignmentDir,"All_QTL_fused.txt",sep=""), stringsAsFactors=FALSE, head=TRUE)
+
 #====================================================
 # separate analysis of QTL
 
