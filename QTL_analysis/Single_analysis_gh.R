@@ -1,12 +1,5 @@
-# 8/31/17
-
-# TO DO:
-# in SNP file, there are still too many SNPs, e.g. at chrI 2146
-# need to add the regional block for ends of chromosomes
-# in SNP file, the SNPs are out of order, which makes me worried about the filters. Some indexing problem?
-# SNP file also has chromosomes out of order. Not a big deal, but will need to take into account when plotting
-# FIX multipeaks dump problem
-# FIX mclapply
+library("VariantAnnotation")
+source(paste(alignmentDir,"/Scripts/x_qtl_seq_functions_170831.R",sep=""))
 
 
 # can then call this from external
@@ -30,8 +23,7 @@ sgd_table <- paste(alignmentDir,"/Scripts/sacCer3ChromLenghts.txt",sep="")
 
 # common annotations, functions, etc
 
-library("VariantAnnotation")
-source(paste(alignmentDir,"/Scripts/x_qtl_seq_functions_170831.R",sep=""))
+
 geneInfo = read.table(paste(alignmentDir,"/Scripts/ensemblGenes_ensembl83_160307_MOD.txt",sep=""), stringsAsFactors=FALSE, sep="\t", header=TRUE)
 rownames(geneInfo) <- geneInfo[,"geneID"]
 allNames <- geneInfo[, "geneName"]
@@ -46,8 +38,6 @@ obsMin <- 10
 LoessSpan = 0.1
 AFThres = 0.09653124 # same as in Albert 2014
 multiThres = 4.5 # LOD threshold ofr multipool, if run with N=1000
-
-
 
 # done reading annotation files, now get to work
 

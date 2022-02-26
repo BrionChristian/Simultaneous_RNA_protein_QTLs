@@ -22,7 +22,7 @@ postfix='_001'
 
 # NEED TO adjust these as needed:
 readDat='/READ_LOCATION/'
-BWADat='/OUTPUR_LOCATION/'
+BWADat='/OUTPUT_LOCATION/'
 fileType='fastq'
 PE='PE'
 

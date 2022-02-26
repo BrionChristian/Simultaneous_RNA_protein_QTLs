@@ -11,7 +11,6 @@ compa_mCHdf<-read.table(paste(alignmentDir,"compa_mCHdf.txt",sep=""), stringsAsF
 
 
 #GFP comparizon
-min(compa_GFPdf$albertLOD[compa_GFPdf$albertLOD>0])
 summary(as.factor(compa_GFPdf$correspond))
 compa_GFPdftrue<-compa_GFPdf[!(compa_GFPdf$names %in% c("RPS10A","CTS1","NA","TDH3")),]
 summary(as.factor(compa_GFPdftrue$correspond))

@@ -34,12 +34,6 @@ names(allNamesInv) <- allNames
 chromosome<-unique(SNPs[,1])
 
 
-#frank data
-xpQTL <- read.table("C:/Users/brion/Dropbox/Gdrive/MN_postdoc/Biblio/Frank_eQTL_pQTL/xpQTLs.txt",header = T,sep = "\t", quote = "", na.strings = "NA",stringsAsFactors = F)
-final_eQTL <- read.table("C:/Users/brion/Dropbox/Gdrive/MN_postdoc/diverR/eQTLFrank/final_eQTL.txt",header = T,sep = "\t", quote = "", na.strings = "NA",stringsAsFactors = F,comment.char = "")
-geneQTG <- read.table("C:/Users/brion/Dropbox/Gdrive/MN_postdoc/diverR/eQTLFrank/genes_RMBY_variant.txt",header = T,sep = "\t", quote = "", na.strings = "",stringsAsFactors = F,comment.char = "")
-geneQTG<-geneQTG[!(is.na(geneQTG$chr)),]
-
 experimentFile <- read.table(paste(alignmentDir,"AllPoprecap.txt",sep=""), stringsAsFactors=FALSE, head=TRUE)
 
 experimentFile$tube<-paste(experimentFile$gene,experimentFile$crispr,experimentFile$rep,experimentFile$tech,experimentFile$gate,sep="_")
