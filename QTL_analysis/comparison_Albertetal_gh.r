@@ -9,7 +9,7 @@ library(plyr)
 library(reshape2)
 
 
-alignmentDir <- "C:/Users/brion/Dropbox/Gdrive/MN_postdoc/diverR/190208-AllQTLprocess/"
+alignmentDir <- "YOUR/WORK/DIRECTORY/"
 setwd(alignmentDir)
 
 

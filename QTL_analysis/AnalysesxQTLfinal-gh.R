@@ -7,7 +7,7 @@
 #-compare QTL curve to previous QTL analysis and save output summary text file
 #
 
-alignmentDir <- "C:/Users/brion/Dropbox/Gdrive/MN_postdoc/diverR/190208-AllQTLprocess/"
+alignmentDir <- "YOUR/WORK/DIRECTORY/"
 setwd(alignmentDir)
 
 #library("VariantAnnotation")
@@ -44,9 +44,9 @@ names(allNamesInv) <- allNames
 chromosome<-unique(SNPs[,1])
 
 #Albert et al data: pQTL and eQTL
-xpQTL <- read.table("C:/Users/brion/Dropbox/Gdrive/MN_postdoc/Biblio/Frank_eQTL_pQTL/xpQTLs.txt",header = T,sep = "\t", quote = "", na.strings = "NA",stringsAsFactors = F)
-final_eQTL <- read.table("C:/Users/brion/Dropbox/Gdrive/MN_postdoc/diverR/eQTLFrank/final_eQTL.txt",header = T,sep = "\t", quote = "", na.strings = "NA",stringsAsFactors = F,comment.char = "")
-geneQTG <- read.table("C:/Users/brion/Dropbox/Gdrive/MN_postdoc/diverR/eQTLFrank/genes_RMBY_variant.txt",header = T,sep = "\t", quote = "", na.strings = "",stringsAsFactors = F,comment.char = "")
+xpQTL <- read.table(paste(alignmentDir,"/Scripts/albert2014/xpQTLs.txt",sep=""),header = T,sep = "\t", quote = "", na.strings = "NA",stringsAsFactors = F)
+final_eQTL <- read.table(paste(alignmentDir,"/Scripts/albert2014/final_eQTL.txt",sep=""),header = T,sep = "\t", quote = "", na.strings = "NA",stringsAsFactors = F,comment.char = "")
+geneQTG <- read.table(paste(alignmentDir,"/Scripts/albert2014/genes_RMBY_variant.txt",sep=""),header = T,sep = "\t", quote = "", na.strings = "",stringsAsFactors = F,comment.char = "")
 geneQTG<-geneQTG[!(is.na(geneQTG$chr)),]
 xpQTL2<-merge(xpQTL,geneInfo,by.x=1,by.y=1,all.x =T,all.y=F)
 eQTL_OI<-final_eQTL[final_eQTL$chr.x == chromosome[10] & final_eQTL$maxQTLpos > 130000  & final_eQTL$maxQTLpos < 170000,] #TIF2
@@ -59,7 +59,7 @@ xpQTL2ACT1<-xpQTL2[xpQTL2$geneName=="ACT1",]
 
 
 #table with summary of all the QTL experiment
-experimentFile <- read.table(paste(alignmentDir,"AllPoprecap.txt",sep=""), stringsAsFactors=FALSE, head=TRUE, na.strings = "")
+experimentFile <- read.table(paste(alignmentDir,"/Scripts/AllPoprecap.txt",sep=""), stringsAsFactors=FALSE, head=TRUE, na.strings = "")
 experimentFile$tube<-paste(experimentFile$gene,experimentFile$crispr,experimentFile$rep,experimentFile$tech,sep="_")
 experimentFile$exp<-paste(experimentFile$gene,substr(experimentFile$crispr,1,1),sep="_")
 experimentFile$globrep<-paste(substr(experimentFile$crispr,2,2),experimentFile$rep,experimentFile$tech,sep="_")
@@ -374,9 +374,9 @@ for (i in 1:length(levels(as.factor(experimentFile2$exp)))) { #loop every 5min
   #   print(c)
   # } #15seg
   # mergeQTLplot<-data.frame(chro,pos,meandAFg,meanLODg,meandAFm,meanLODm)
-  # save(mergeQTLplot,file = paste("C:/Users/brion/Dropbox/Gdrive/MN_postdoc/diverR/190208-AllQTLprocess/repQTLresults/","mergeQTLplot_",orf,"_",gene,".RData",sep=""))
+  # save(mergeQTLplot,file = paste(alignmentDir,"/repQTLresults/","mergeQTLplot_",orf,"_",gene,".RData",sep=""))
   # 
-  load(paste("C:/Users/brion/Dropbox/Gdrive/MN_postdoc/diverR/190208-AllQTLprocess/repQTLresults/","mergeQTLplot_",orf,"_",gene,".RData",sep="")) #mergeQTLplot
+  load(paste(alignmentDir,"/repQTLresults/","mergeQTLplot_",orf,"_",gene,".RData",sep="")) #mergeQTLplot
   
   #GFP comparizon
   chr<-c()
@@ -389,7 +389,7 @@ for (i in 1:length(levels(as.factor(experimentFile2$exp)))) { #loop every 5min
   correspond<-c()
   repnum<-c()
   n=0
-  load(paste("C:/Users/brion/Dropbox/Gdrive/MN_postdoc/diverR/190208-AllQTLprocess/frank_QTL_data/pQTLfrank_",orf,"_",gene,".RData",sep="")) #pQTLfrank
+  load(paste(alignmentDir,"/frank_QTL_data/pQTLfrank_",orf,"_",gene,".RData",sep="")) #pQTLfrank
   tempbrion<-exportpeak_merged_signi[exportpeak_merged_signi$fluorecence == "gfp",]
   tempalbert<-xpQTL2[xpQTL2$gene==orf,]
   tempalbert$chromosome<-as.numeric(gsub(pattern = "chr", "", tempalbert$chromosome))
@@ -458,7 +458,7 @@ for (i in 1:length(levels(as.factor(experimentFile2$exp)))) { #loop every 5min
   correspond<-c()
   repnum<-c()
   n=0
-  load(paste("C:/Users/brion/Dropbox/Gdrive/MN_postdoc/diverR/190208-AllQTLprocess/frank_QTL_data/eQTLfrank_",orf,"_",gene,".RData",sep="")) #eQTLfrank
+  load(paste(alignmentDir,"/frank_QTL_data/eQTLfrank_",orf,"_",gene,".RData",sep="")) #eQTLfrank
   tempbrion<-exportpeak_merged_signi[exportpeak_merged_signi$fluorecence == "mch",]
   tempalbert<-final_eQTLtrans[final_eQTLtrans$gene==orf,]
   for (j in 1:nrow(tempbrion)) {

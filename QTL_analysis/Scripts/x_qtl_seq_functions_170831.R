@@ -15,7 +15,7 @@ rollLoessByChrWithWeights = function(x, span4Loess=0.1){
 				  }))
 }
 
-getGcoords = function ( chr , pos, spacing=0, sgd.table="sacCer3ChromLenghts.txt" ) {
+getGcoords = function ( chr , pos, spacing=0, sgd.table="YOUR/WORK/DIRECTORY/Scripts/sacCer3ChromLenghts.txt" ) {
     offind = as.vector(cumsum(read.table(sgd.table, header=FALSE, sep="\t")[,2] + spacing))
     offind=    offind[-length(offind)]
     offind= c(0, offind)

@@ -7,7 +7,7 @@
 #
 
 
-alignmentDir <- "/home/christian/Dropbox/Gdrive/MN_postdoc/diverR/190208-AllQTLprocess/"
+alignmentDir <- "YOUR/WORK/DIRECTORY/"
 setwd(alignmentDir)
 
 #library("VariantAnnotation")
@@ -44,9 +44,9 @@ chromosome<-unique(SNPs[,1])
 
 
 #frank data
-xpQTL <- read.table("/home/christian/Dropbox/Gdrive/MN_postdoc/Biblio/Frank_eQTL_pQTL/xpQTLs.txt",header = T,sep = "\t", quote = "", na.strings = "NA",stringsAsFactors = F)
-final_eQTL <- read.table("/home/christian/Dropbox/Gdrive/MN_postdoc/diverR/eQTLFrank/final_eQTL.txt",header = T,sep = "\t", quote = "", na.strings = "NA",stringsAsFactors = F,comment.char = "")
-geneQTG <- read.table("/home/christian/Dropbox/Gdrive/MN_postdoc/diverR/eQTLFrank/genes_RMBY_variant.txt",header = T,sep = "\t", quote = "", na.strings = "",stringsAsFactors = F,comment.char = "")
+xpQTL <- read.table(paste(alignmentDir,"/Scripts/albert2014/xpQTLs.txt",sep=""),header = T,sep = "\t", quote = "", na.strings = "NA",stringsAsFactors = F)
+final_eQTL <- read.table(paste(alignmentDir,"/Scripts/albert2014/final_eQTL.txt",sep=""),header = T,sep = "\t", quote = "", na.strings = "NA",stringsAsFactors = F,comment.char = "")
+geneQTG <- read.table(paste(alignmentDir,"/Scripts/albert2014/genes_RMBY_variant.txt",sep=""),header = T,sep = "\t", quote = "", na.strings = "",stringsAsFactors = F,comment.char = "")
 geneQTG<-geneQTG[!(is.na(geneQTG$chr)),]
 
 experimentFile <- read.table(paste(alignmentDir,"/Scripts/AllPoprecap.txt",sep=""), stringsAsFactors=FALSE, head=TRUE)

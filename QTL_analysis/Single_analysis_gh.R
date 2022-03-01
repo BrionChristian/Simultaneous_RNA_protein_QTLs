@@ -5,23 +5,23 @@
 #-provide allele frequency figures for QC
 #
 
+
+# can then call this from external
+i = 1
+alignmentDir <- "YOUR/WORK/DIRECTORY/"
+setwd(alignmentDir)
+
 library("VariantAnnotation")
 source(paste(alignmentDir,"/Scripts/x_qtl_seq_functions_170831.R",sep=""))
 
 
-# can then call this from external
-i = 1
-alignmentDir <- "/home/christian/Dropbox/Gdrive/MN_postdoc/diverR/180502-Seq-data"
-#alignmentDir <- "/home/albertf/chbrion"
-setwd(alignmentDir)
 
 SNPs <- read.table(paste(alignmentDir,"/Scripts/SNPs_Maggie_170809_BY_positions.txt",sep=""), stringsAsFactors=FALSE, head=FALSE)
 # see comments above. As of 8/31/17, the SNPs seem not to be fully filtered, and are out of sorting order
 for (thisChr in unique(SNPs[,1])){SNPs[SNPs[,1] == thisChr, 2] <- sort(SNPs[SNPs[,1] == thisChr, 2])}
 SNPs <- rbind(SNPs[SNPs[,1] == "chrI",], SNPs[SNPs[,1] == "chrII",], SNPs[SNPs[,1] == "chrIII",], SNPs[SNPs[,1] == "chrIV",], SNPs[SNPs[,1] == "chrV",], SNPs[SNPs[,1] == "chrVI",], SNPs[SNPs[,1] == "chrVII",], SNPs[SNPs[,1] == "chrVIII",], SNPs[SNPs[,1] == "chrIX",], SNPs[SNPs[,1] == "chrX",], SNPs[SNPs[,1] == "chrXI",], SNPs[SNPs[,1] == "chrXII",], SNPs[SNPs[,1] == "chrXIII",], SNPs[SNPs[,1] == "chrXIV",], SNPs[SNPs[,1] == "chrXV",], SNPs[SNPs[,1] == "chrXVI",])
 
-#experimentFile <- read.table(paste(alignmentDir,"/Scripts/180515_ChB_31_SampleDetails.txt",sep=""), stringsAsFactors=FALSE, head=TRUE)
-alignmentDir2 <- paste(alignmentDir,"/SeqOutput/180515folder/",sep="")
+alignmentDir2 <- paste(alignmentDir,"",sep="")
 
 
 resultsFolder <- paste(alignmentDir2,"AlleleFreqresults/",sep="")

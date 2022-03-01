@@ -7,7 +7,7 @@
 #-perform FDR analysis
 #
 
-alignmentDir <- "C:/Users/brion/Dropbox/Gdrive/MN_postdoc/diverR/190208-AllQTLprocess/"
+alignmentDir <- "YOUR/WORK/DIRECTORY/"
 setwd(alignmentDir)
 
 #library("VariantAnnotation")
@@ -18,7 +18,7 @@ source(paste(alignmentDir,"/Scripts/peaksFromVector.R",sep=""))
 
 
 
-# can then call this from external
+# paramteres
 i = 1
 sepBetweenChr <- 1e5
 trimFromEnd = 15e3
@@ -28,6 +28,8 @@ AFThres = 0.09653124 # same as in Albert 2014
 multiThres = 2.8 # LOD threshold for multipool, if run with N=1000: 4.5
 withMultipool <- TRUE
 
+
+# import informations files
 SNPs <- read.table(paste(alignmentDir,"/Scripts/SNPs_Maggie_170809_BY_positions.txt",sep=""), stringsAsFactors=FALSE, head=FALSE)
 # see comments above. As of 8/31/17, the SNPs seem not to be fully filtered, and are out of sorting order
 for (thisChr in unique(SNPs[,1])){SNPs[SNPs[,1] == thisChr, 2] <- sort(SNPs[SNPs[,1] == thisChr, 2])}
@@ -43,13 +45,11 @@ names(allNamesInv) <- allNames
 chromosome<-unique(SNPs[,1])
 
 
-experimentFile <- read.table(paste(alignmentDir,"AllPoprecap.txt",sep=""), stringsAsFactors=FALSE, head=TRUE)
+experimentFile <- read.table(paste(alignmentDir,"/Scripts/AllPoprecap.txt",sep=""), stringsAsFactors=FALSE, head=TRUE)
 
 experimentFile$tube<-paste(experimentFile$gene,experimentFile$crispr,experimentFile$rep,experimentFile$tech,experimentFile$gate,sep="_")
 experimentFile2<-experimentFile[experimentFile$tube!= "GPD1_a_3_2",] #experimentFile$crispr!='i' & 
 levels(as.factor(experimentFile2$tube))
-
-#resultsFolder <- paste(alignmentDir,"/SeqOutput/180515folder/results/",sep="")
 
 experimentFile3<-experimentFile2[experimentFile2$crispr!="i",]
 experimentFile3<-experimentFile3[paste(experimentFile3$gene,experimentFile3$rep)!="RPS10A 2",]

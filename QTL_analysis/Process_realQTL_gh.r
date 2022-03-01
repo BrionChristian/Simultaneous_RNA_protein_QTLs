@@ -9,7 +9,7 @@ library(plyr)
 library(reshape2)
 
 
-alignmentDir <- "C:/Users/brion/Dropbox/Gdrive/MN_postdoc/diverR/190208-AllQTLprocess/"
+alignmentDir <- "YOUR/WORK/DIRECTORY"
 setwd(alignmentDir)
 
 
@@ -173,6 +173,8 @@ summary(as.factor(finalcumul3$type[finalcumul3$GFP_LOD>4.5 | finalcumul3$mCH_LOD
 
 finalcumul3[grep(pattern = "_",finalcumul3$type),]
 
+#visualization
+
 x<-1:20
 y<-1:20
 for (i in x) {
@@ -283,6 +285,8 @@ binom.test(sum(sign(finalcumul45_14$GFP_effect)==sign(finalcumul45_14$mCH_effect
 points(finalcumul45_14false$GFP_effect,finalcumul45_14false$mCH_effect,
        xlim=c(-1,1),ylim=c(-1,1),col="grey",cex=finalcumul45_14false$cexallF,pch=1)
 dev.off()
+
+#correlation test and binomial test
 
 summary(as.factor(finalcumul45_142$type))
 
