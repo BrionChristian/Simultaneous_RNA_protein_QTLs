@@ -1,3 +1,12 @@
+# Author: Christian Brion - 2020 - UMN
+#
+#-perform the multipool bulk QTL analysis for the same population across replicates
+#-save raw replicate falseQTL data in txt file
+#-save processed comparative data in R files
+#-provide figures for each falseQTL analysis
+#-perform FDR analysis
+#
+
 alignmentDir <- "C:/Users/brion/Dropbox/Gdrive/MN_postdoc/diverR/190208-AllQTLprocess/"
 setwd(alignmentDir)
 
@@ -42,15 +51,13 @@ levels(as.factor(experimentFile2$tube))
 
 #resultsFolder <- paste(alignmentDir,"/SeqOutput/180515folder/results/",sep="")
 
-
-
-
 experimentFile3<-experimentFile2[experimentFile2$crispr!="i",]
 experimentFile3<-experimentFile3[paste(experimentFile3$gene,experimentFile3$rep)!="RPS10A 2",]
 experimentFile3<-experimentFile3[experimentFile3$gene!="TDH3",]
 experimentFile3<-experimentFile3[experimentFile3$gate<6,]
 
 
+#prepare the table that summarized the falseQTL analyses
 ref1<-c()
 ref2<-c()
 n=1
@@ -73,12 +80,15 @@ refinfo<-refinfo[refinfo$ref1!=refinfo$ref2,]
 refinfo$conca<-paste(refinfo$ref1,refinfo$ref2)
 levels(as.factor(refinfo$conca))
 
+
+#initialized the output table
 initialtable <- read.table(paste(alignmentDir,"ReplicateResult/ARO8_a_0_1_1 ARO8_a_1_1_1_QTLs.txt",sep=""), stringsAsFactors=FALSE, head=TRUE,sep = "\t")
 initialtable <- initialtable[-(1:nrow(initialtable)),]
 
 i=1
 
-
+#===========
+# run QTL analysis for each line of the table (each same population across replicates: false QTL)
 
 for (i in 1:nrow(refinfo)) { #loop every 5min
   
@@ -157,7 +167,6 @@ initialtable<-rbind(initialtable,exportpeak)
 
 #now ploting
 
-
 pdf(file = paste(alignmentDir,"ReplicateResult/",paste(experiment, sep="_"), "_plot.pdf", sep=""), width=11, height=16)
 par(mfrow=c(3,1))
 # get plot coordinates for the chromosome line dividers
@@ -228,7 +237,7 @@ write.table(initialtable,paste(alignmentDir,"All_rep.txt", sep=""),quote = F,sep
 
 
 #===========================================================
-
+#FDR analysis
 
 
 trueQTL<-read.table("All_QTLs.txt",header = T,sep = "\t",stringsAsFactors = F)

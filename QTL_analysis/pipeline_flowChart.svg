@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="450.75543mm"
-   height="588.88501mm"
-   viewBox="0 0 450.75543 588.88501"
+   width="439.89575mm"
+   height="605.79596mm"
+   viewBox="0 0 439.89575 605.79596"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
@@ -23,92 +23,610 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.4289282"
-     inkscape:cx="925.51887"
-     inkscape:cy="752.66204"
+     inkscape:zoom="0.50520241"
+     inkscape:cx="1202.4883"
+     inkscape:cy="1137.168"
      inkscape:window-width="2400"
      inkscape:window-height="1261"
      inkscape:window-x="2391"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-top="10"
+     fit-margin-left="10"
+     fit-margin-right="10"
+     fit-margin-bottom="10" />
   <defs
-     id="defs2" />
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path584765" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path584747" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path584759" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path584765-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path584765-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-27"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path584765-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path584765-63" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path584765-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-1-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path584765-63-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-1-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path584765-63-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-1-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path584765-63-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-1-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path584765-63-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-1-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path584765-63-54" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-1-51"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path584765-63-42" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-1-2-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path584765-63-4-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-1-2-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path584765-63-4-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-1-2-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path584765-63-4-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-1-2-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path584765-63-4-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-1-2-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path584765-63-4-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-1-2-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path584765-63-4-19" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-1-2-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path584765-63-4-47" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-1-2-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path584765-63-4-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-1-2-3-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path584765-63-4-3-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-2-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path584765-7-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-2-57"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path584765-7-21" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-1-2-0-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path584765-63-4-1-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-2-57-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path584765-7-21-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-2-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path584765-7-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-2-07"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path584765-7-25" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-2-07-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path584765-7-25-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-2-07-5-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path584765-7-25-0-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-2-57-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path584765-7-21-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-2-57-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path584765-7-21-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-2-57-2-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path584765-7-21-7-5" />
+    </marker>
+  </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(137.88112,-6.3658349)">
+     transform="translate(119.08963,0.54508571)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend-1)"
+       d="m 50.490088,46.047357 v 30.72361"
+       id="path583953-4-94"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend-2-57-2-7)"
+       d="M 122.66589,104.16753 H 88.76728"
+       id="path583953-4-9-7-4-6"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend-1-51)"
+       d="m 52.077589,345.98287 v 37.70097"
+       id="path583953-4-94-31"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend-2-07)"
+       d="M -8.0361981,341.51176 H 122.35591"
+       id="path583953-4-9-1"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.600001"
+       id="rect718878"
+       width="79.245193"
+       height="6.435132"
+       x="10.849199"
+       y="339.45016" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.832991"
+       id="rect718878-7"
+       width="66.937836"
+       height="14.683682"
+       x="11.247437"
+       y="354.89835" />
+    <rect
+       style="fill:#0000ff;fill-opacity:0.0931174;stroke:#0000a5;stroke-width:0.6;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect850-5-8-7-0-41-8"
+       width="80"
+       height="40"
+       x="122.80976"
+       y="511.43188" />
     <rect
        style="fill:#0000ff;fill-opacity:0.0931174;stroke:#0000a5;stroke-width:0.6;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect850-5-8-7-4"
        width="80"
        height="15"
-       x="-125.36028"
+       x="-99.897308"
        y="232.56042" />
     <rect
        style="fill:#0000ff;fill-opacity:0.0931174;stroke:#0000a5;stroke-width:0.6;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect850-5-8-7-4-7"
        width="80"
        height="15"
-       x="-125.36028"
+       x="-99.897308"
        y="247.56042" />
     <rect
        style="fill:#0000ff;fill-opacity:0.0931174;stroke:#0000a5;stroke-width:0.6;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect850-5-8-7-4-3"
        width="80"
        height="15"
-       x="-125.36028"
+       x="-99.897308"
        y="262.56042" />
     <rect
        style="fill:#0000ff;fill-opacity:0.0931174;stroke:#0000a5;stroke-width:0.6;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect850-5-8-7-4-72"
        width="80"
        height="15"
-       x="-125.36028"
+       x="-99.897308"
        y="277.56042" />
     <rect
        style="fill:#0000ff;fill-opacity:0.0931174;stroke:#0000a5;stroke-width:0.6;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect850-5-8-7-0-41"
        width="80"
        height="40"
-       x="10.421287"
+       x="10.49263"
        y="428.30963" />
     <rect
        style="fill:#0000ff;fill-opacity:0.0931174;stroke:#0000a5;stroke-width:0.6;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect850-5-8-7-0-4"
        width="80"
        height="40"
-       x="122.80515"
-       y="338.69412" />
+       x="122.80976"
+       y="331.28568" />
     <rect
        style="fill:#0000ff;fill-opacity:0.0931174;stroke:#0000a5;stroke-width:0.6;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect850-5-8-7-0"
        width="80"
        height="40"
-       x="10.421287"
+       x="10.49263"
        y="305.88528" />
     <rect
        style="fill:#ff0000;fill-opacity:0.0647773;stroke:#960000;stroke-width:0.6;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect874"
        width="80"
        height="80"
-       x="10.421287"
+       x="10.49263"
        y="60.360985" />
     <rect
        style="fill:#ff0000;fill-opacity:0.0647773;stroke:#960000;stroke-width:0.6;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect876"
        width="76"
        height="60"
-       x="12.483792"
+       x="12.49263"
        y="77.025574" />
     <g
        id="g2250"
-       transform="translate(-1.9568228)">
+       transform="translate(-1.8854814)">
       <rect
          style="fill:#ffffff;fill-opacity:1;stroke:#939393;stroke-width:0.600001;stroke-dasharray:0.600001, 0.600001;stroke-opacity:1"
          id="rect850-5-9-5-0-2"
@@ -150,207 +668,207 @@
        id="rect850-5-88"
        width="80"
        height="15"
-       x="122.80515"
+       x="122.80976"
        y="89.003174" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-dasharray:0.600001, 0.600001"
        id="rect850-5-88-7"
        width="80"
        height="15"
-       x="122.80515"
+       x="122.80976"
        y="104.00317" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-dasharray:0.600001, 0.600001"
        id="rect850-5-88-7-8"
        width="80"
        height="15"
-       x="122.80515"
-       y="259.12967" />
+       x="122.80976"
+       y="265.42896" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-dasharray:0.600001, 0.600001"
        id="rect850-5-88-7-83"
        width="80"
        height="15"
-       x="-125.36028"
+       x="-99.897308"
        y="292.56042" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-dasharray:0.600001, 0.600001"
        id="rect850-5-88-7-3"
        width="80"
        height="15"
-       x="-125.36028"
+       x="-99.897308"
        y="307.56039" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="162.88266"
+       x="162.88728"
        y="93.399338"
        id="text3011-0"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="162.88266"
+         x="162.88728"
          y="93.399338"
          id="tspan27733-6">sacCer3.fa</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="162.81445"
+       x="162.72089"
        y="109.24026"
        id="text3011-0-5"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="162.81445"
+         x="162.72089"
          y="109.24026"
          id="tspan58890">SNPs_Maggie_170809_BY_positions.txt</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="-26.056522"
-       y="6.4539237"
+       y="3.1457849"
        id="text3011-7"
        transform="rotate(-90)"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
          x="-26.056522"
-         y="6.4539237"
+         y="3.1457849"
          id="tspan27733-5">NCBI SRA</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-96.84478"
-       y="6.0219088"
+       x="-100.46537"
+       y="3.2201989"
        id="text3011-7-2"
        transform="rotate(-90)"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="-96.84478"
-         y="6.0219088"
+         x="-100.46537"
+         y="3.2201989"
          id="tspan27733-5-0">Process_reads</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="-104.21626"
-       y="119.9938"
+       y="117.37426"
        id="text3011-7-2-5"
        transform="rotate(-90)"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
          x="-104.21626"
-         y="119.9938"
+         y="117.37426"
          id="tspan27733-5-0-8">Process_reads</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="50.40889"
+       x="50.480228"
        y="67.495903"
        id="text3011-0-2"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="50.40889"
+         x="50.480228"
          y="67.495903"
          id="tspan27733-6-6">processAFolder_170809_31.sh</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="50.408894"
+       x="50.480228"
        y="83.794693"
        id="text3011-0-2-5"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="50.408894"
+         x="50.480228"
          y="83.794693"
          id="tspan27733-6-6-9">mapFilterCount_4Cluster_180109.sh</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="37.471043"
+       x="38.302147"
        y="158.56123"
        id="text3011-0-2-2"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="37.471043"
+         x="38.302147"
          y="158.56123"
          id="tspan27733-6-6-2">sortP-ARO8a-1_C56_S56</tspan><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="37.471043"
+         x="38.302147"
          y="163.85289"
          id="tspan250180">_sort_filtered_rmdup.vcf</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="50.342747"
+       x="50.414082"
        y="213.62241"
        id="text3011-0-2-3"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="50.342747"
+         x="50.414082"
          y="213.62241"
          id="tspan27733-6-6-7">Single_analysis_gh.R</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-85.415878"
+       x="-59.953117"
        y="237.19441"
        id="text3011-0-2-1"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="-85.415878"
+         x="-59.953117"
          y="237.19441"
          id="tspan27733-6-6-1">gTest.R</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-85.491302"
+       x="-60.028564"
        y="252.48372"
        id="text3011-0-2-18"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="-85.491302"
+         x="-60.028564"
          y="252.48372"
          id="tspan27733-6-6-5">mp_JB_170901.R</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-85.491302"
+       x="-60.028564"
        y="268.46213"
        id="text3011-0-2-27"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="-85.491302"
+         x="-60.028564"
          y="268.46213"
          id="tspan27733-6-6-59">peaksFromVector.R</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-85.360046"
+       x="-59.897305"
        y="283.69904"
        id="text3011-0-2-4"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="-85.360046"
+         x="-59.897305"
          y="283.69904"
          id="tspan27733-6-6-23">x_qtl_seq_functions_170831.R</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="50.465736"
+       x="50.537071"
        y="314.35297"
        id="text3011-0-2-7"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="50.465736"
+         x="50.537071"
          y="314.35297"
          id="tspan27733-6-6-43">AnalysesxQTL-gh.R</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="50.465736"
+       x="50.537071"
        y="434.43893"
        id="text3011-0-2-39"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="50.465736"
+         x="50.537071"
          y="434.43893"
          id="tspan27733-6-6-91">AnalysesxQTLfinal-gh.R</tspan></text>
     <rect
@@ -358,22 +876,22 @@
        id="rect850-5-8-7"
        width="80"
        height="40"
-       x="10.421287"
+       x="10.49263"
        y="206.26808" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="162.84959"
-       y="352.98273"
+       x="162.8542"
+       y="338.16583"
        id="text3011-0-2-7-5"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="162.84959"
-         y="352.98273"
+         x="162.8542"
+         y="338.16583"
          id="tspan27733-6-6-43-1">AnalysesxQTLrep-gh.R</tspan></text>
     <g
        id="g2243"
-       transform="translate(-91.968352,15.368454)">
+       transform="translate(-91.897014,15.368454)">
       <rect
          style="fill:#ffffff;fill-opacity:1;stroke:#939393;stroke-width:0.600001;stroke-dasharray:0.600001, 0.600001;stroke-opacity:1"
          id="rect850-5-9-5-0-2-7"
@@ -413,22 +931,22 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="32.101456"
+       x="32.390369"
        y="259.95282"
        id="text3011-0-2-44"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="32.101456"
+         x="32.390369"
          y="259.95282"
          id="tspan27733-6-6-4">YDL022W_GPD1_a</tspan><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="32.101456"
+         x="32.390369"
          y="265.24448"
          id="tspan254628">_0_1_1_C12.RData</tspan></text>
     <g
        id="g2243-5"
-       transform="translate(-91.968352,144.69906)">
+       transform="translate(-91.897014,144.69906)">
       <rect
          style="fill:#ffffff;fill-opacity:1;stroke:#939393;stroke-width:0.600001;stroke-dasharray:0.600001, 0.600001;stroke-opacity:1"
          id="rect850-5-9-5-0-2-7-9"
@@ -467,7 +985,7 @@
     </g>
     <g
        id="g2243-8"
-       transform="translate(20.415506,144.69906)">
+       transform="translate(20.42012,144.69906)">
       <rect
          style="fill:#ffffff;fill-opacity:1;stroke:#939393;stroke-width:0.600001;stroke-dasharray:0.600001, 0.600001;stroke-opacity:1"
          id="rect850-5-9-5-0-2-7-4"
@@ -507,161 +1025,154 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="37.10083"
+       x="38.125412"
        y="389.2923"
        id="text3011-0-2-78"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="37.10083"
+         x="38.125412"
          y="389.2923"
          id="tspan27733-6-6-42">YDL022W_GPD1_a_0_1_</tspan><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="37.10083"
+         x="38.125412"
          y="394.58395"
          id="tspan258944">multipoolResults.RData</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="50.455399"
+       x="50.526737"
        y="487.56198"
        id="text3011-0-2-78-2"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="50.455399"
+         x="50.526737"
          y="487.56198"
          id="tspan27733-6-6-42-7">All_QTL_fused.txt</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="50.353081"
-       y="571.99591"
+       x="50.424416"
+       y="568.82086"
        id="text3011-0-2-78-85"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="50.353081"
-         y="571.99591"
+         x="50.424416"
+         y="568.82086"
          id="tspan27733-6-6-42-63">QTLfuseFinal.txt</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="123.14467"
+       x="122.82057"
        y="389.2923"
        id="text3011-0-2-78-8"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:start;text-anchor:start;stroke-width:0.264583"
-         x="123.14467"
+         x="122.82057"
          y="389.2923"
          id="tspan266008">ARO8_a_0_1_1 ARO8_a_1_</tspan><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:start;text-anchor:start;stroke-width:0.264583"
-         x="123.14467"
+         x="122.82057"
          y="394.58395"
          id="tspan270764">1_1_multipoolResults.RData</tspan></text>
-    <rect
-       style="fill:#0000ff;fill-opacity:0.0931174;stroke:#0000a5;stroke-width:0.6;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect850-5-8-7-0-41-8"
-       width="80"
-       height="40"
-       x="122.80515"
-       y="511.43188" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="162.68837"
-       y="532.54083"
+       x="162.69298"
+       y="518.78229"
        id="text3011-0-2-39-2"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="162.68837"
-         y="532.54083"
-         id="tspan27733-6-6-91-3">comparizon_Albertetal_gh.r</tspan></text>
+         x="162.69298"
+         y="518.78229"
+         id="tspan27733-6-6-91-3">comparison_Albertetal_gh.r</tspan></text>
     <rect
        style="fill:#0000ff;fill-opacity:0.0931174;stroke:#0000a5;stroke-width:0.6;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect850-5-8-7-0-41-8-6"
        width="80"
        height="40"
-       x="10.421287"
+       x="10.49263"
        y="511.43188" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="50.213554"
-       y="532.54083"
+       x="50.284893"
+       y="518.78229"
        id="text3011-0-2-39-2-6"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="50.213554"
-         y="532.54083"
+         x="50.284893"
+         y="518.78229"
          id="tspan27733-6-6-91-3-8">Process_realQTL_gh.r</tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-dasharray:0.600001, 0.600001"
        id="rect850-5-88-7-3-6"
        width="80"
        height="15"
-       x="10.421287"
+       x="10.49263"
        y="481.91562" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-dasharray:0.600001, 0.600001"
        id="rect850-5-88-7-3-6-8"
        width="80"
        height="15"
-       x="10.421287"
+       x="10.49263"
        y="563.38696" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="162.83926"
-       y="264.98624"
+       x="162.84387"
+       y="270.80716"
        id="text3011-0-2-4-9"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="162.83926"
-         y="264.98624"
+         x="162.84387"
+         y="270.80716"
          id="tspan27733-6-6-23-8">AllPoprecap.txt</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-85.426186"
-       y="297.55722"
+       x="-59.844597"
+       y="296.89713"
        id="text3011-0-2-4-1"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="-85.426186"
-         y="297.55722"
+         x="-59.844597"
+         y="296.89713"
          id="tspan27733-6-6-23-2">ensemblGenes_ensembl83</tspan><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="-85.426186"
-         y="302.84888"
+         x="-59.844597"
+         y="302.18878"
          id="tspan285476">_160307_MOD.txt</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-85.426186"
-       y="313.0014"
+       x="-59.963451"
+       y="312.47223"
        id="text3011-0-2-4-6"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="-85.426186"
-         y="313.0014"
+         x="-59.963451"
+         y="312.47223"
          id="tspan27733-6-6-23-3">genestested.txt</tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-dasharray:0.600001, 0.600001"
        id="rect850-5-88-7-3-8"
        width="80"
        height="15"
-       x="-125.36028"
+       x="-99.897308"
        y="322.56039" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-85.424126"
+       x="-59.961384"
        y="328.53058"
        id="text3011-0-2-4-6-8"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="-85.424126"
+         x="-59.961384"
          y="328.53058"
          id="tspan27733-6-6-23-3-4">sacCer3ChromLenghts.txt</tspan></text>
     <rect
@@ -669,17 +1180,17 @@
        id="rect850-5-88-7-3-5"
        width="80"
        height="15"
-       x="-125.36028"
+       x="-99.897308"
        y="337.56039" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-85.448921"
+       x="-59.986187"
        y="342.47223"
        id="text3011-0-2-4-6-1"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="-85.448921"
+         x="-59.986187"
          y="342.47223"
          id="tspan27733-6-6-23-3-8">SNPs_Maggie_170809_BY_positions.txt</tspan></text>
     <rect
@@ -687,58 +1198,58 @@
        id="rect850-5-88-7-3-0"
        width="80"
        height="15"
-       x="-125.36028"
+       x="-99.897308"
        y="359.43967" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-85.357971"
-       y="364.3515"
+       x="-59.895237"
+       y="363.82233"
        id="text3011-0-2-4-6-3"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="-85.357971"
-         y="364.3515"
+         x="-59.895237"
+         y="363.82233"
          id="tspan27733-6-6-23-3-84">final_eQTL.txt</tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-dasharray:0.600001, 0.600001"
        id="rect850-5-88-7-3-0-0"
        width="80"
        height="15"
-       x="-125.36028"
-       y="374.43967" />
+       x="-99.897308"
+       y="389.43967" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-85.426186"
-       y="378.82233"
+       x="-59.963451"
+       y="394.3515"
        id="text3011-0-2-4-6-3-0"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="-85.426186"
-         y="378.82233"
+         x="-59.963451"
+         y="394.3515"
          id="tspan27733-6-6-23-3-84-4">genes_RMBY_variant.txt</tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-dasharray:0.600001, 0.600001"
        id="rect850-5-88-7-3-0-01"
        width="80"
        height="15"
-       x="-125.36028"
-       y="389.43967" />
+       x="-99.897308"
+       y="374.43967" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-85.370369"
-       y="393.29315"
+       x="-59.907642"
+       y="378.82233"
        id="text3011-0-2-4-6-3-9"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="-85.370369"
-         y="393.29315"
+         x="-59.907642"
+         y="378.82233"
          id="tspan27733-6-6-23-3-84-1">xpQTLs.txt</tspan></text>
     <g
        id="g2243-8-9"
-       transform="translate(127.50648,170.12559)">
+       transform="translate(127.53313,170.12559)">
       <rect
          style="fill:#ffffff;fill-opacity:1;stroke:#939393;stroke-width:0.600001;stroke-dasharray:0.600001, 0.600001;stroke-opacity:1"
          id="rect850-5-9-5-0-2-7-4-7"
@@ -777,18 +1288,23 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="270.14105"
-       y="417.30835"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="232.94121"
+       y="414.90125"
        id="text3011-0-2-78-8-3"><tspan
          sodipodi:role="line"
-         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="270.14105"
-         y="417.30835"
-         id="tspan27733-6-6-42-6-7">eQTLfrank_YDL022W_GPD1.RData</tspan></text>
+         style="font-size:4.23333px;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="232.94121"
+         y="414.90125"
+         id="tspan27733-6-6-42-6-7">eQTLfrank_YDL022W</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="232.94121"
+         y="420.1929"
+         id="tspan299179">_GPD1.RData</tspan></text>
     <g
        id="g2243-8-1"
-       transform="translate(129.60134,212.90685)">
+       transform="translate(127.53313,212.90685)">
       <rect
          style="fill:#ffffff;fill-opacity:1;stroke:#939393;stroke-width:0.600001;stroke-dasharray:0.600001, 0.600001;stroke-opacity:1"
          id="rect850-5-9-5-0-2-7-4-5"
@@ -827,49 +1343,54 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="272.23593"
-       y="460.61319"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="232.94121"
+       y="458.20609"
        id="text3011-0-2-78-8-7"><tspan
          sodipodi:role="line"
-         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="272.23593"
-         y="460.61319"
-         id="tspan27733-6-6-42-6-4">pQTLfrank_YDL022W_GPD1.RData</tspan></text>
+         style="font-size:4.23333px;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="232.94121"
+         y="458.20609"
+         id="tspan27733-6-6-42-6-4">pQTLfrank_YDL022W</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="232.94121"
+         y="463.49774"
+         id="tspan302431">_GPD1.RData</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="162.66356"
-       y="572.69208"
+       x="162.66817"
+       y="570.0462"
        id="text3011-0-2-78-2-0"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="162.66356"
-         y="572.69208"
+         x="162.66817"
+         y="570.0462"
          id="tspan27733-6-6-42-7-3">processGFPcompa.txt</tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-dasharray:0.600001, 0.600001"
        id="rect850-5-88-7-3-6-7"
        width="80"
        height="15"
-       x="122.80515"
+       x="122.80976"
        y="564.95087" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-dasharray:0.600001, 0.600001"
        id="rect850-5-88-7-3-0-0-5"
        width="80"
        height="15"
-       x="122.80515"
+       x="122.80976"
        y="468.09128" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="162.739"
+       x="162.74362"
        y="473.00311"
        id="text3011-0-2-4-6-3-0-0"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="162.739"
+         x="162.74362"
          y="473.00311"
          id="tspan27733-6-6-23-3-84-4-9">compa_GFPdf.txt</tspan></text>
     <rect
@@ -877,53 +1398,53 @@
        id="rect850-5-88-7-3-0-01-5"
        width="80"
        height="15"
-       x="122.80515"
+       x="122.80976"
        y="483.09128" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="162.739"
+       x="162.74362"
        y="488.00311"
        id="text3011-0-2-4-6-3-9-6"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="162.739"
+         x="162.74362"
          y="488.00311"
          id="tspan27733-6-6-23-3-84-1-1">compa_mCHdf.txt</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="162.66356"
-       y="587.69208"
+       x="162.66817"
+       y="585.0462"
        id="text3011-0-2-78-2-0-5"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="162.66356"
-         y="587.69208"
+         x="162.66817"
+         y="585.0462"
          id="tspan27733-6-6-42-7-3-2">processmCHcompa.txt</tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-dasharray:0.600001, 0.600001"
        id="rect850-5-88-7-3-6-7-1"
        width="80"
        height="15"
-       x="122.80515"
+       x="122.80976"
        y="579.95087" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-dasharray:0.600001, 0.600001"
        id="rect850-5-88-7-3-1"
        width="80"
        height="15"
-       x="122.80515"
-       y="204.05136" />
+       x="122.80976"
+       y="203.76808" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="162.64806"
+       x="162.65266"
        y="209.49237"
        id="text3011-0-2-4-6-85"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="162.64806"
+         x="162.65266"
          y="209.49237"
          id="tspan27733-6-6-23-3-0">FinalINFO.txt</tspan></text>
     <rect
@@ -931,17 +1452,17 @@
        id="rect850-5-88-7-3-8-1"
        width="80"
        height="15"
-       x="122.80515"
-       y="219.05136" />
+       x="122.80976"
+       y="218.76808" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="162.64806"
+       x="162.65266"
        y="225.02155"
        id="text3011-0-2-4-6-8-0"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="162.64806"
+         x="162.65266"
          y="225.02155"
          id="tspan27733-6-6-23-3-4-2">FinalINFO2.txt</tspan></text>
     <rect
@@ -949,17 +1470,17 @@
        id="rect850-5-88-7-3-5-8"
        width="80"
        height="15"
-       x="122.80515"
-       y="234.05136" />
+       x="122.80976"
+       y="233.76808" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="162.64806"
+       x="162.65266"
        y="239.49248"
        id="text3011-0-2-4-6-1-5"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="162.64806"
+         x="162.65266"
          y="239.49248"
          id="tspan27733-6-6-23-3-8-9">FinalINFO3.txt</tspan></text>
     <rect
@@ -967,216 +1488,216 @@
        id="rect850-5-88-7-3-0-0-5-6"
        width="80"
        height="15"
-       x="226.30009"
-       y="351.19412" />
+       x="229.92271"
+       y="354.89835" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="266.23318"
-       y="359.8031"
+       x="269.95682"
+       y="360.33228"
        id="text3011-0-2-4-6-3-0-0-3"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="266.23318"
-         y="359.8031"
+         x="269.95682"
+         y="360.33228"
          id="tspan27733-6-6-23-3-84-4-9-4">All_rep.txt</tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-dasharray:0.600001, 0.600001"
        id="rect850-5-88-7-3-0-0-5-67"
        width="80"
        height="15"
-       x="10.421287"
-       y="354.36917" />
+       x="10.49263"
+       y="354.89835" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="50.455402"
-       y="359.27393"
+       x="50.526737"
+       y="360.86145"
        id="text3011-0-2-4-6-3-0-0-1"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="50.455402"
-         y="359.27393"
+         x="50.526737"
+         y="360.86145"
          id="tspan27733-6-6-23-3-84-4-9-6">All_QTLs.txt</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-172.93115"
-       y="6.3461499"
+       x="-171.71187"
+       y="3.2201989"
        id="text3011-7-2-6"
        transform="rotate(-90)"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="-172.93115"
-         y="6.3461499"
+         x="-171.71187"
+         y="3.2201989"
          id="tspan27733-5-0-0">not provided</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-226.30681"
-       y="120.01464"
+       x="-226.18126"
+       y="117.37426"
        id="text3011-7-2-4"
        transform="rotate(-90)"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="-226.30681"
-         y="120.01464"
+         x="-226.18126"
+         y="117.37426"
          id="tspan27733-5-0-3">AlleleFreqresults</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-227.39778"
-       y="4.7749968"
+       x="-226.28358"
+       y="3.2201989"
        id="text3011-7-2-1"
        transform="rotate(-90)"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="-227.39778"
-         y="4.7749968"
+         x="-226.28358"
+         y="3.2201989"
          id="tspan27733-5-0-5">QTL_analysis</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-296.92126"
-       y="-134.66478"
+       x="-300.62549"
+       y="-104.24246"
        id="text3011-7-2-0"
        transform="rotate(-90)"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="-296.92126"
-         y="-134.66478"
+         x="-300.62549"
+         y="-104.24246"
          id="tspan27733-5-0-85">Scripts</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="-381.86169"
-       y="-130.86783"
+       y="-104.24246"
        id="text3011-7-2-52"
        transform="rotate(-90)"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
          x="-381.86169"
-         y="-130.86783"
+         y="-104.24246"
          id="tspan27733-5-0-31">Scripts/albert2014</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-266.66022"
-       y="120.00919"
+       x="-272.96512"
+       y="117.37426"
        id="text3011-7-2-7"
        transform="rotate(-90)"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="-266.66022"
-         y="120.00919"
+         x="-272.96512"
+         y="117.37426"
          id="tspan27733-5-0-9">Scripts</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-361.46945"
-       y="3.2038388"
+       x="-362.41385"
+       y="3.2201989"
        id="text3011-7-2-76"
        transform="rotate(-90)"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="-361.46945"
-         y="3.2038388"
+         x="-362.41385"
+         y="3.2201989"
          id="tspan27733-5-0-35">QTL_analysis</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-322.71436"
-       y="4.7749887"
+       x="-325.90079"
+       y="3.2201989"
        id="text3011-7-2-43"
        transform="rotate(-90)"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="-322.71436"
-         y="4.7749887"
+         x="-325.90079"
+         y="3.2201989"
          id="tspan27733-5-0-6">QTL_analysis</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-271.95197"
-       y="3.7330115"
+       x="-272.84213"
+       y="3.2201989"
        id="text3011-7-2-50"
        transform="rotate(-90)"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="-271.95197"
-         y="3.7330115"
+         x="-272.84213"
+         y="3.2201989"
          id="tspan27733-5-0-05">AlleleFreqresults</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-359.37457"
-       y="117.89799"
+       x="-349.71365"
+       y="117.37426"
        id="text3011-7-2-47"
        transform="rotate(-90)"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="-359.37457"
-         y="117.89799"
+         x="-349.71365"
+         y="117.37426"
          id="tspan27733-5-0-58">QTL_analysis</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-402.31943"
+       x="-402.41666"
        y="117.37426"
        id="text3011-7-2-8"
        transform="rotate(-90)"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="-402.31943"
+         x="-402.41666"
          y="117.37426"
          id="tspan27733-5-0-4">ReplicateResult</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-402.31943"
-       y="4.7749887"
+       x="-402.27505"
+       y="3.2201989"
        id="text3011-7-2-61"
        transform="rotate(-90)"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="-402.31943"
-         y="4.7749887"
+         x="-402.27505"
+         y="3.2201989"
          id="tspan27733-5-0-40">QTLresults</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-361.46945"
-       y="222.11775"
+       x="-362.41385"
+       y="224.73631"
        id="text3011-7-2-2"
        transform="rotate(-90)"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="-361.46945"
-         y="222.11775"
+         x="-362.41385"
+         y="224.73631"
          id="tspan27733-5-0-54">QTL_analysis</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="-423.26813"
-       y="225.78377"
+       y="224.73631"
        id="text3011-7-2-65"
        transform="rotate(-90)"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
          x="-423.26813"
-         y="225.78377"
+         y="224.73631"
          id="tspan27733-5-0-2">frank_QTL_data</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="-470.92642"
-       y="226.83121"
+       y="224.73631"
        id="text3011-7-2-58"
        transform="rotate(-90)"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
          x="-470.92642"
-         y="226.83121"
+         y="224.73631"
          id="tspan27733-5-0-97">frank_QTL_data</tspan></text>
     <text
        xml:space="preserve"
@@ -1194,77 +1715,77 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="-490.30396"
-       y="1.6326988"
+       y="3.2201989"
        id="text3011-7-2-92"
        transform="rotate(-90)"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
          x="-490.30396"
-         y="1.6326988"
+         y="3.2201989"
          id="tspan27733-5-0-7">QTL_analysis</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-446.83539"
-       y="7.3935885"
+       x="-448.32513"
+       y="3.2201989"
        id="text3011-7-2-21"
        transform="rotate(-90)"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="-446.83539"
-         y="7.3935885"
+         x="-448.32513"
+         y="3.2201989"
          id="tspan27733-5-0-34">QTL_analysis</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-527.48792"
-       y="6.8698688"
+       x="-531.44739"
+       y="3.2201989"
        id="text3011-7-2-81"
        transform="rotate(-90)"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="-527.48792"
-         y="6.8698688"
+         x="-531.44739"
+         y="3.2201989"
          id="tspan27733-5-0-28">QTL_analysis</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="-572.00391"
-       y="4.2512889"
+       y="3.2201989"
        id="text3011-7-2-15"
        transform="rotate(-90)"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
          x="-572.00391"
-         y="4.2512889"
+         y="3.2201989"
          id="tspan27733-5-0-03">QTL_analysis</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-532.20135"
-       y="118.68354"
+       x="-531.44739"
+       y="117.37426"
        id="text3011-7-2-762"
        transform="rotate(-90)"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="-532.20135"
-         y="118.68354"
+         x="-531.44739"
+         y="117.37426"
          id="tspan27733-5-0-62">QTL_analysis</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-581.43079"
-       y="119.46913"
+       x="-580.90161"
+       y="117.37426"
        id="text3011-7-2-3"
        transform="rotate(-90)"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="-581.43079"
-         y="119.46913"
+         x="-580.90161"
+         y="117.37426"
          id="tspan27733-5-0-1">QTL_analysis</tspan></text>
     <g
        id="g2243-5-5"
-       transform="translate(-220.30512,231.14916)">
+       transform="translate(-202.28695,231.14916)">
       <rect
          style="fill:#ffffff;fill-opacity:1;stroke:#939393;stroke-width:0.600001;stroke-dasharray:0.600001, 0.600001;stroke-opacity:1"
          id="rect850-5-9-5-0-2-7-9-6"
@@ -1303,30 +1824,35 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-77.719101"
-       y="477.95309"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-98.309418"
+       y="475.8364"
        id="text3011-0-2-78-4"><tspan
          sodipodi:role="line"
-         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="-77.719101"
-         y="477.95309"
-         id="tspan27733-6-6-42-72">mergeQTLplot_YDL022W_GPD1.RData</tspan></text>
+         style="font-size:4.23333px;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="-98.309418"
+         y="475.8364"
+         id="tspan27733-6-6-42-72">mergeQTLplot_YDL022W</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="-98.309418"
+         y="481.12805"
+         id="tspan177730">_GPD1.RData</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="-488.7695"
-       y="-123.56178"
+       y="-104.24246"
        id="text3011-7-2-61-6"
        transform="rotate(-90)"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
          x="-488.7695"
-         y="-123.56178"
+         y="-104.24246"
          id="tspan27733-5-0-40-8">repQTLresults</tspan></text>
     <g
        id="g2250-5"
-       transform="translate(-1.720936,-143.87361)">
+       transform="translate(-1.8854814,-143.87361)">
       <rect
          style="fill:#ffffff;fill-opacity:1;stroke:#939393;stroke-width:0.600001;stroke-dasharray:0.600001, 0.600001;stroke-opacity:1"
          id="rect850-5-9-5-0-2-3"
@@ -1366,849 +1892,930 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="39.78046"
-       y="14.179797"
+       x="34.557674"
+       y="14.708963"
        id="text3011-0-2-2-4"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="39.78046"
-         y="14.179797"
+         x="34.557674"
+         y="14.708963"
          id="tspan27733-6-6-2-5">sortP-MTD1a-1_C23_</tspan><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="39.78046"
-         y="19.47146"
+         x="34.557674"
+         y="20.000626"
          id="tspan241874">S23_R1_001.fastq.gz</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="46.129513"
+       x="50.563168"
        y="29.323668"
        id="text3011"><tspan
          sodipodi:role="line"
          id="tspan3009"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="46.129513"
+         x="50.563168"
          y="29.323668">WGS reads NCBI SRA</tspan><tspan
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="46.129513"
-         y="33.292419"
+         x="50.563168"
+         y="33.292416"
          id="tspan27733">BioProject PRJNA644804</tspan><tspan
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="46.129513"
-         y="37.261169"
+         x="50.563168"
+         y="37.261166"
          id="tspan3020" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="50.989574"
+       x="50.415119"
        y="72.555077"
        id="text3011-4"><tspan
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="50.989574"
+         x="50.415119"
          y="72.555077"
-         id="tspan3020-6">paralellized sript to dubmit jobs on cluster</tspan></text>
+         id="tspan3020-6">parallelizing sript to submit jobs on cluster</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="52.560726"
+       x="50.583324"
        y="97.933571"
        id="text3011-42"><tspan
          sodipodi:role="line"
-         id="tspan3009-8"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="52.560726"
-         y="97.933571">WGS reads NCBI SRA</tspan><tspan
+         x="50.583324"
+         y="97.933571"
+         id="tspan3020-1">-read filtering and aligned (BWA)</tspan><tspan
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="52.560726"
+         x="50.583324"
          y="101.90232"
-         id="tspan27733-4">BioProject PRJNA644804</tspan><tspan
+         id="tspan26175">-collapsting PCR duplicates (samtools rmdup)</tspan><tspan
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="52.560726"
+         x="50.583324"
          y="105.87107"
-         id="tspan3020-1" /></text>
+         id="tspan37891">-variant coverage and</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
+         x="50.583324"
+         y="109.83982"
+         id="tspan41115">allele frequency (mpileup)</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
+         x="50.583324"
+         y="113.80857"
+         id="tspan32519" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="161.49396"
+       x="162.871"
        y="99.799294"
        id="text3011-01"><tspan
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="161.49396"
+         x="162.871"
          y="99.799294"
          id="tspan3020-66">Saccharomyces cerevisiae genome</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="162.5414"
+       x="162.77023"
        y="113.65601"
        id="text3011-43"><tspan
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="162.5414"
+         x="162.77023"
          y="113.65601"
          id="tspan27733-3">curated list of SNP between RM and BY strains</tspan><tspan
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="162.5414"
+         x="162.77023"
          y="117.62476"
-         id="tspan236622">used for SNP calling</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="162.5414"
-         y="121.59351"
-         id="tspan3020-3" /></text>
+         id="tspan3020-3">used for SNP calling</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="47.125229"
+       x="50.371708"
        y="172.97177"
        id="text3011-3"><tspan
          sodipodi:role="line"
          id="tspan3009-83"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="47.125229"
-         y="172.97177">WGS reads NCBI SRA</tspan><tspan
+         x="50.371708"
+         y="172.97177">vcf files for each sequenced</tspan><tspan
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="47.125229"
+         x="50.371708"
          y="176.94052"
-         id="tspan27733-59">BioProject PRJNA644804</tspan><tspan
+         id="tspan27733-59">populations</tspan><tspan
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="47.125229"
+         x="50.371708"
          y="180.90927"
          id="tspan3020-5" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="46.799835"
+       x="50.525959"
        y="222.07642"
        id="text3011-1"><tspan
          sodipodi:role="line"
-         id="tspan3009-82"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="46.799835"
-         y="222.07642">WGS reads NCBI SRA</tspan><tspan
+         x="50.525959"
+         y="222.07642"
+         id="tspan3020-35">-convert allele frequency vcf files into R data</tspan><tspan
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="46.799835"
+         x="50.525959"
          y="226.04517"
-         id="tspan27733-1">BioProject PRJNA644804</tspan><tspan
+         id="tspan73972"> -prepare meta files with the list of populations</tspan><tspan
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="46.799835"
+         x="50.525959"
          y="230.01392"
-         id="tspan3020-35" /></text>
+         id="tspan88166">-provide allele frequency figures for QC</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
+         x="50.525959"
+         y="233.98267"
+         id="tspan81306" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="163.06512"
+       x="162.91595"
        y="213.69693"
        id="text3011-8"><tspan
          sodipodi:role="line"
-         id="tspan3009-5"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="163.06512"
-         y="213.69693">WGS reads NCBI SRA</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="163.06512"
-         y="217.66568"
-         id="tspan27733-68">BioProject PRJNA644804</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="163.06512"
-         y="221.63443"
-         id="tspan3020-9" /></text>
+         x="162.91595"
+         y="213.69693"
+         id="tspan3020-9">list of the populations (batch 1)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="160.97025"
-       y="228.09917"
+       x="162.91595"
+       y="229.68665"
        id="text3011-71"><tspan
          sodipodi:role="line"
-         id="tspan3009-87"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="160.97025"
-         y="228.09917">WGS reads NCBI SRA</tspan><tspan
+         x="162.91595"
+         y="229.68665"
+         id="tspan27733-16">list of the populations (batch 2)</tspan><tspan
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="160.97025"
-         y="232.06792"
-         id="tspan27733-16">BioProject PRJNA644804</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="160.97025"
-         y="236.03667"
+         x="162.91595"
+         y="233.6554"
          id="tspan3020-7" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="163.85069"
+       x="162.91595"
        y="244.85812"
        id="text3011-74"><tspan
          sodipodi:role="line"
-         id="tspan3009-52"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="163.85069"
-         y="244.85812">WGS reads NCBI SRA</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="163.85069"
-         y="248.82687"
-         id="tspan27733-9">BioProject PRJNA644804</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="163.85069"
-         y="252.79562"
-         id="tspan3020-2" /></text>
+         x="162.91595"
+         y="244.85812"
+         id="tspan3020-2">list of the populations (batch 3)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="160.18466"
-       y="269.73471"
+       x="162.91595"
+       y="276.08481"
        id="text3011-2"><tspan
          sodipodi:role="line"
-         id="tspan3009-88"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="160.18466"
-         y="269.73471">WGS reads NCBI SRA</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="160.18466"
-         y="273.70346"
-         id="tspan27733-10">BioProject PRJNA644804</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="160.18466"
-         y="277.67221"
-         id="tspan3020-60" /></text>
+         x="162.91595"
+         y="276.08481"
+         id="tspan3020-60">merged list of the populations (batch 1, 2 &amp; 3)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="42.620995"
-       y="274.56277"
+       x="50.535263"
+       y="274.3009"
        id="text3011-82"><tspan
          sodipodi:role="line"
-         id="tspan3009-9"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="42.620995"
-         y="274.56277">WGS reads NCBI SRA</tspan><tspan
+         x="50.535263"
+         y="274.3009"
+         id="tspan3020-54">allele frequency in each</tspan><tspan
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="42.620995"
-         y="278.53152"
-         id="tspan27733-53">BioProject PRJNA644804</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="42.620995"
-         y="282.50027"
-         id="tspan3020-54" /></text>
+         x="50.535263"
+         y="278.26965"
+         id="tspan94641">sequenced population</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-84.129539"
-       y="239.88281"
-       id="text3011-19"><tspan
-         sodipodi:role="line"
-         id="tspan3009-0"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="-84.129539"
-         y="239.88281">WGS reads NCBI SRA</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="-84.129539"
-         y="243.85156"
-         id="tspan27733-96">BioProject PRJNA644804</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="-84.129539"
-         y="247.82031"
-         id="tspan3020-4" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-80.725372"
-       y="256.37991"
-       id="text3011-5"><tspan
-         sodipodi:role="line"
-         id="tspan3009-21"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="-80.725372"
-         y="256.37991">WGS reads NCBI SRA</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="-80.725372"
-         y="260.34866"
-         id="tspan27733-2">BioProject PRJNA644804</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="-80.725372"
-         y="264.31741"
-         id="tspan3020-71" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-80.20166"
-       y="271.56772"
-       id="text3011-26"><tspan
-         sodipodi:role="line"
-         id="tspan3009-58"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="-80.20166"
-         y="271.56772">WGS reads NCBI SRA</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="-80.20166"
-         y="275.53647"
-         id="tspan27733-57">BioProject PRJNA644804</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="-80.20166"
-         y="279.50522"
-         id="tspan3020-28" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-82.55838"
-       y="287.54111"
-       id="text3011-6"><tspan
-         sodipodi:role="line"
-         id="tspan3009-70"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="-82.55838"
-         y="287.54111">WGS reads NCBI SRA</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="-82.55838"
-         y="291.50986"
-         id="tspan27733-54">BioProject PRJNA644804</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="-82.55838"
-         y="295.47861"
-         id="tspan3020-49" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-86.055595"
-       y="306.21893"
+       x="-59.955441"
+       y="306.08252"
        id="text3011-48"><tspan
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="-86.055595"
-         y="306.21893"
+         x="-59.955441"
+         y="306.08252"
          id="tspan3020-0">S. cerevisae gene list</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-88.581139"
-       y="317.39301"
+       x="-59.826767"
+       y="316.86383"
        id="text3011-03"><tspan
          sodipodi:role="line"
-         id="tspan3009-4"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="-88.581139"
-         y="317.39301">WGS reads NCBI SRA</tspan><tspan
+         x="-59.826767"
+         y="316.86383"
+         id="tspan675557">list of the tagged genes on which</tspan><tspan
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="-88.581139"
-         y="321.36176"
-         id="tspan27733-8">BioProject PRJNA644804</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="-88.581139"
-         y="325.33051"
-         id="tspan3020-289" /></text>
+         x="-59.826767"
+         y="320.83258"
+         id="tspan677653">the RNAvsProt QTL analysis was done</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-87.533699"
-       y="332.0571"
+       x="-59.826767"
+       y="333.64462"
        id="text3011-78"><tspan
          sodipodi:role="line"
-         id="tspan3009-09"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="-87.533699"
-         y="332.0571">WGS reads NCBI SRA</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="-87.533699"
-         y="336.02585"
-         id="tspan27733-01">BioProject PRJNA644804</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="-87.533699"
-         y="339.9946"
-         id="tspan3020-10" /></text>
+         x="-59.826767"
+         y="333.64462"
+         id="tspan3020-10">chromosome lengths</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-85.700691"
-       y="348.81604"
+       x="-59.826767"
+       y="347.22852"
        id="text3011-77"><tspan
          sodipodi:role="line"
-         id="tspan3009-20"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="-85.700691"
-         y="348.81604">WGS reads NCBI SRA</tspan><tspan
+         x="-59.826767"
+         y="347.22852"
+         id="tspan3020-52">curated list of SNP between RM and BY strains</tspan><tspan
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="-85.700691"
-         y="352.78479"
-         id="tspan27733-46">BioProject PRJNA644804</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="-85.700691"
-         y="356.75354"
-         id="tspan3020-52" /></text>
+         x="-59.826767"
+         y="351.19727"
+         id="tspan667769">used for SNP calling and plots</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-83.867683"
-       y="370.02661"
+       x="-59.826767"
+       y="368.43909"
        id="text3011-00"><tspan
          sodipodi:role="line"
-         id="tspan3009-3"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="-83.867683"
-         y="370.02661">WGS reads NCBI SRA</tspan><tspan
+         x="-59.826767"
+         y="368.43909"
+         id="tspan3020-40">all eQTL data from Albert et al.</tspan><tspan
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="-83.867683"
-         y="373.99536"
-         id="tspan27733-23">BioProject PRJNA644804</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="-83.867683"
-         y="377.96411"
-         id="tspan3020-40" /></text>
+         x="-59.826767"
+         y="372.40784"
+         id="tspan593494">(2017) 1000 segregant QTL analysis</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-84.129539"
-       y="383.90512"
+       x="-59.826767"
+       y="398.37595"
        id="text3011-484"><tspan
          sodipodi:role="line"
-         id="tspan3009-49"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="-84.129539"
-         y="383.90512">WGS reads NCBI SRA</tspan><tspan
+         x="-59.826767"
+         y="398.37595"
+         id="tspan3020-61">type and number of RM / BY</tspan><tspan
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="-84.129539"
-         y="387.87387"
-         id="tspan27733-99">BioProject PRJNA644804</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="-84.129539"
-         y="391.84262"
-         id="tspan3020-61" /></text>
+         x="-59.826767"
+         y="402.3447"
+         id="tspan655718">variants per genes</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-83.867683"
-       y="397.78363"
+       x="-59.826767"
+       y="383.31281"
        id="text3011-62"><tspan
          sodipodi:role="line"
-         id="tspan3009-62"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="-83.867683"
-         y="397.78363">WGS reads NCBI SRA</tspan><tspan
+         x="-59.826767"
+         y="383.31281"
+         id="tspan3020-34">all bulk xpQTL</tspan><tspan
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="-83.867683"
-         y="401.75238"
-         id="tspan27733-232">BioProject PRJNA644804</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="-83.867683"
-         y="405.72113"
-         id="tspan3020-34" /></text>
+         x="-59.826767"
+         y="387.28156"
+         id="tspan621763">data from Albert et al. (2014)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="50.727715"
-       y="363.742"
+       x="50.541466"
+       y="366.91705"
        id="text3011-58"><tspan
          sodipodi:role="line"
-         id="tspan3009-95"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="50.727715"
-         y="363.742">WGS reads NCBI SRA</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="50.727715"
-         y="367.71075"
-         id="tspan27733-08">BioProject PRJNA644804</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="50.727715"
-         y="371.6795"
-         id="tspan3020-47" /></text>
+         x="50.541466"
+         y="366.91705"
+         id="tspan3020-47">raw QTL data</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="50.465855"
+       x="50.454647"
        y="322.63019"
        id="text3011-75"><tspan
          sodipodi:role="line"
-         id="tspan3009-1"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="50.465855"
-         y="322.63019">WGS reads NCBI SRA</tspan><tspan
+         x="50.454647"
+         y="322.63019"
+         id="tspan3020-70">-perform the multipool bulk QTL analysis</tspan><tspan
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="50.465855"
+         x="50.454647"
          y="326.59894"
-         id="tspan27733-06">BioProject PRJNA644804</tspan><tspan
+         id="tspan142359">experiment per experiment</tspan><tspan
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="50.465855"
+         x="50.454647"
          y="330.56769"
-         id="tspan3020-70" /></text>
+         id="tspan143147">-save raw QTL data in txt file</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
+         x="50.454647"
+         y="334.53644"
+         id="tspan149353">-save processed comparative data in R files</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
+         x="50.454647"
+         y="338.50519"
+         id="tspan157323">-provide figures for each QTL analysis</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="159.39909"
-       y="357.19553"
+       x="162.77177"
+       y="345.02451"
        id="text3011-49"><tspan
          sodipodi:role="line"
-         id="tspan3009-61"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="159.39909"
-         y="357.19553">WGS reads NCBI SRA</tspan><tspan
+         x="162.77177"
+         y="345.02451"
+         id="tspan27733-86">-perform the multipool bulk QTL analysis</tspan><tspan
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="159.39909"
-         y="361.16428"
-         id="tspan27733-86">BioProject PRJNA644804</tspan><tspan
+         x="162.77177"
+         y="348.99326"
+         id="tspan257122">for the same population across replicates</tspan><tspan
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="159.39909"
-         y="365.13303"
-         id="tspan3020-709" /></text>
+         x="162.77177"
+         y="352.96201"
+         id="tspan257124">-save raw replicate falseQTL data in txt file</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
+         x="162.77177"
+         y="356.93076"
+         id="tspan257126">-save processed comparative data in R files</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
+         x="162.77177"
+         y="360.89951"
+         id="tspan257128">-provide figures for each falseQTL analysis</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
+         x="162.77177"
+         y="364.86826"
+         id="tspan3020-709">-perform FDR analysis</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:0.650206;stroke:none;stroke-width:0.609746"
+       id="rect230123"
+       width="44.456394"
+       height="14.782205"
+       x="28.264433"
+       y="400.05121" />
+    <rect
+       style="fill:#ffffff;fill-opacity:0.650206;stroke:none;stroke-width:0.630964"
+       id="rect230123-7"
+       width="47.604149"
+       height="14.782205"
+       x="-83.699379"
+       y="486.13101" />
+    <rect
+       style="fill:#ffffff;fill-opacity:0.650206;stroke:none;stroke-width:0.612849"
+       id="rect230123-5"
+       width="44.910076"
+       height="14.782205"
+       x="140.35472"
+       y="399.61316" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="43.133812"
-       y="403.62094"
+       x="50.479454"
+       y="401.97693"
        id="text3011-87"><tspan
          sodipodi:role="line"
-         id="tspan3009-97"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="43.133812"
-         y="403.62094">WGS reads NCBI SRA</tspan><tspan
+         x="50.479454"
+         y="401.97693"
+         id="tspan187395">processed allelle frequency</tspan><tspan
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="43.133812"
-         y="407.58969"
-         id="tspan27733-40">BioProject PRJNA644804</tspan><tspan
+         x="50.479454"
+         y="405.94568"
+         id="tspan198745">differences and multipool</tspan><tspan
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="43.133812"
-         y="411.55844"
-         id="tspan3020-38" /></text>
+         x="50.479454"
+         y="409.91443"
+         id="tspan213517">significance score between</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
+         x="50.479454"
+         y="413.88318"
+         id="tspan225015">high-low population</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="157.8987"
-       y="403.63184"
-       id="text3011-09"><tspan
-         sodipodi:role="line"
-         id="tspan3009-57"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="157.8987"
-         y="403.63184">WGS reads NCBI SRA</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="157.8987"
-         y="407.60059"
-         id="tspan27733-66">BioProject PRJNA644804</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="157.8987"
-         y="411.56934"
-         id="tspan3020-8" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="49.156563"
-       y="442.03775"
-       id="text3011-44"><tspan
-         sodipodi:role="line"
-         id="tspan3009-64"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="49.156563"
-         y="442.03775">WGS reads NCBI SRA</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="49.156563"
-         y="446.0065"
-         id="tspan27733-109">BioProject PRJNA644804</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="49.156563"
-         y="449.97525"
-         id="tspan3020-97" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-88.319283"
-       y="480.79285"
-       id="text3011-28"><tspan
-         sodipodi:role="line"
-         id="tspan3009-72"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="-88.319283"
-         y="480.79285">WGS reads NCBI SRA</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="-88.319283"
-         y="484.7616"
-         id="tspan27733-164">BioProject PRJNA644804</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="-88.319283"
-         y="488.73035"
-         id="tspan3020-22" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="50.509453"
-       y="491.79092"
+       x="50.47015"
+       y="492.84927"
        id="text3011-006"><tspan
          sodipodi:role="line"
-         id="tspan3009-55"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="50.509453"
-         y="491.79092">WGS reads NCBI SRA</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="50.509453"
-         y="495.75967"
-         id="tspan27733-00">BioProject PRJNA644804</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="50.509453"
-         y="499.72842"
-         id="tspan3020-78" /></text>
+         x="50.47015"
+         y="492.84927"
+         id="tspan3020-78">merged QTL datas</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="161.75581"
+       x="162.80356"
        y="477.36139"
        id="text3011-9"><tspan
          sodipodi:role="line"
-         id="tspan3009-28"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="161.75581"
-         y="477.36139">WGS reads NCBI SRA</tspan><tspan
+         x="162.80356"
+         y="477.36139"
+         id="tspan397869">table comparing this study QTL</tspan><tspan
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="161.75581"
+         x="163.30818"
          y="481.33014"
-         id="tspan27733-38">BioProject PRJNA644804</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="161.75581"
-         y="485.29889"
-         id="tspan3020-408" /></text>
+         id="tspan385525">to previous data: protein QTL </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="162.01768"
+       x="162.80356"
        y="492.56012"
        id="text3011-54"><tspan
          sodipodi:role="line"
-         id="tspan3009-77"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="162.01768"
-         y="492.56012">WGS reads NCBI SRA</tspan><tspan
+         x="162.80356"
+         y="492.56012"
+         id="tspan3020-06">table comparing this study QTL</tspan><tspan
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="162.01768"
+         x="162.80356"
          y="496.52887"
-         id="tspan27733-577">BioProject PRJNA644804</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="162.01768"
-         y="500.49762"
-         id="tspan3020-06" /></text>
+         id="tspan408398">to previous data: RNA QTL</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="45.49054"
-       y="537.87805"
+       x="50.516659"
+       y="529.62402"
        id="text3011-45"><tspan
          sodipodi:role="line"
-         id="tspan3009-79"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="45.49054"
-         y="537.87805">WGS reads NCBI SRA</tspan><tspan
+         x="50.516659"
+         y="529.62402"
+         id="tspan3020-96">-compare and merge RNA and protein QTL</tspan><tspan
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="45.49054"
-         y="541.8468"
-         id="tspan27733-58">BioProject PRJNA644804</tspan><tspan
+         x="50.516659"
+         y="533.59277"
+         id="tspan489196">-data visualization</tspan><tspan
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="45.49054"
-         y="545.81555"
-         id="tspan3020-96" /></text>
+         x="50.516659"
+         y="537.56152"
+         id="tspan489198">-statistical tests</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="163.85069"
-       y="534.73578"
+       x="162.84619"
+       y="531.90442"
        id="text3011-005"><tspan
          sodipodi:role="line"
-         id="tspan3009-75"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="163.85069"
-         y="534.73578">WGS reads NCBI SRA</tspan><tspan
+         x="162.84619"
+         y="531.90442"
+         id="tspan3020-969">-filter the comparative tables (LOD&gt;4.5)</tspan><tspan
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="163.85069"
-         y="538.70453"
-         id="tspan27733-064">BioProject PRJNA644804</tspan><tspan
+         x="162.84619"
+         y="535.87317"
+         id="tspan547407">&amp; chr14 MKT1 excusion</tspan><tspan
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="163.85069"
-         y="542.67328"
-         id="tspan3020-969" /></text>
+         x="162.84619"
+         y="539.84192"
+         id="tspan542983">-plot and statistical analysis of the comparison</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="51.51329"
+       x="50.489529"
        y="574.01459"
        id="text3011-777"><tspan
          sodipodi:role="line"
-         id="tspan3009-90"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="51.51329"
-         y="574.01459">WGS reads NCBI SRA</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="51.51329"
-         y="577.98334"
-         id="tspan27733-592">BioProject PRJNA644804</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="51.51329"
-         y="581.95209"
-         id="tspan3020-540" /></text>
+         x="50.489529"
+         y="574.01459"
+         id="tspan3020-540">filtered merged RNAvsProt QTL data</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="161.2321"
+       x="162.79193"
        y="574.01459"
        id="text3011-76"><tspan
          sodipodi:role="line"
-         id="tspan3009-12"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="161.2321"
-         y="574.01459">WGS reads NCBI SRA</tspan><tspan
+         x="162.79193"
+         y="574.01459"
+         id="tspan458331">filtered table comparing this</tspan><tspan
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="161.2321"
+         x="163.29655"
          y="577.98334"
-         id="tspan27733-02">BioProject PRJNA644804</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="161.2321"
-         y="581.95209"
-         id="tspan3020-03" /></text>
+         id="tspan455845">study QTL to previous data: protein QTL </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="159.39909"
-       y="591.55908"
+       x="162.79193"
+       y="588.91321"
        id="text3011-14"><tspan
          sodipodi:role="line"
-         id="tspan3009-03"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="159.39909"
-         y="591.55908">WGS reads NCBI SRA</tspan><tspan
+         x="162.79193"
+         y="588.91321"
+         id="tspan3020-62">filtered table comparing this</tspan><tspan
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="159.39909"
-         y="595.52783"
-         id="tspan27733-586">BioProject PRJNA644804</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="159.39909"
-         y="599.49658"
-         id="tspan3020-62" /></text>
+         x="163.29655"
+         y="592.88196"
+         id="tspan465694">study QTL to previous data: RNA QTL </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="264.66632"
-       y="463.24832"
-       id="text3011-23"><tspan
-         sodipodi:role="line"
-         id="tspan3009-19"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="264.66632"
-         y="463.24832">WGS reads NCBI SRA</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="264.66632"
-         y="467.21707"
-         id="tspan27733-62">BioProject PRJNA644804</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="264.66632"
-         y="471.18582"
-         id="tspan3020-11" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="260.47656"
-       y="421.61276"
+       x="269.83356"
+       y="429.02121"
        id="text3011-93"><tspan
          sodipodi:role="line"
-         id="tspan3009-80"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="260.47656"
-         y="421.61276">WGS reads NCBI SRA</tspan><tspan
+         x="269.83356"
+         y="429.02121"
+         id="tspan3020-33">lod score curve from Albert et al.</tspan><tspan
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="260.47656"
-         y="425.58151"
-         id="tspan27733-003">BioProject PRJNA644804</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="260.47656"
-         y="429.55026"
-         id="tspan3020-33" /></text>
+         x="269.83356"
+         y="432.98996"
+         id="tspan332213">(2017) 1000 segregant QTL analysis</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="267.02304"
-       y="362.69458"
+       x="269.97156"
+       y="366.3988"
        id="text3011-15"><tspan
          sodipodi:role="line"
-         id="tspan3009-39"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="267.02304"
-         y="362.69458">WGS reads NCBI SRA</tspan><tspan
+         x="269.97156"
+         y="366.3988"
+         id="tspan3020-26">replicate falseQTL data</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="162.84775"
+       y="402.19086"
+       id="text3011-87-9"><tspan
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="267.02304"
-         y="366.66333"
-         id="tspan27733-44">BioProject PRJNA644804</tspan><tspan
+         x="162.84775"
+         y="402.19086"
+         id="tspan187395-5">processed allelle frequency</tspan><tspan
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
-         x="267.02304"
-         y="370.63208"
-         id="tspan3020-26" /></text>
+         x="162.84775"
+         y="406.15961"
+         id="tspan198745-9">differences and multipool</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
+         x="162.84775"
+         y="410.12836"
+         id="tspan213517-3">significance score between</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
+         x="162.84775"
+         y="414.09711"
+         id="tspan225015-8">population across replicates</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="50.454647"
+       y="444.0636"
+       id="text3011-75-3"><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
+         x="50.454647"
+         y="444.0636"
+         id="tspan142359-7">-merge QTL data across replicates</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
+         x="50.454647"
+         y="448.03235"
+         id="tspan143147-6">-save merged QTL data in txt file</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
+         x="50.454647"
+         y="452.0011"
+         id="tspan149353-3">-save merged data in R files</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
+         x="50.454647"
+         y="455.96985"
+         id="tspan157323-2">-provide figures for tagged gene</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
+         x="50.454647"
+         y="459.9386"
+         id="tspan330588">-compare QTL curve to previous QTL analysis</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
+         x="50.454647"
+         y="463.90735"
+         id="tspan330592">and save output summary text file</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="269.97388"
+       y="471.75873"
+       id="text3011-93-7"><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
+         x="269.97388"
+         y="471.75873"
+         id="tspan332213-6">bulk xpQTL allele frequency</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
+         x="269.97388"
+         y="475.72748"
+         id="tspan367939">data from Albert et al. (2014)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-59.881802"
+       y="490.31799"
+       id="text3011-28"><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
+         x="-59.881802"
+         y="490.31799"
+         id="tspan3020-22">merged allelle frequency</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
+         x="-59.881802"
+         y="494.28674"
+         id="tspan476627">differences and multipool</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
+         x="-59.881802"
+         y="498.25549"
+         id="tspan476631">significance across replicates</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -108.95734,285.21698 v 45.01111"
+       id="path583953"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -100.19687,330.22809 h -8.76047"
+       id="path583953-6"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="m -108.95734,285.21698 h 8.49861"
+       id="path583953-4"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend-2)"
+       d="M -8.0459399,226.27062 H 9.9776703"
+       id="path583953-4-9"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend-2-07-5)"
+       d="M -8.2478576,438.37733 H 10.304919"
+       id="path583953-4-9-1-8"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend-2-07-5-2)"
+       d="M -8.2692369,325.88783 H 10.283529"
+       id="path583953-4-9-1-8-8"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend-2-5)"
+       d="m 203.01221,362.40089 h 26.49028"
+       id="path583953-4-9-4"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend-2-57)"
+       d="M 90.653013,362.40089 H 122.43496"
+       id="path583953-4-9-7"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend-2-57-4)"
+       d="m 106.81857,334.19369 h 15.37777"
+       id="path583953-4-9-7-1"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend-2-57-2)"
+       d="M 106.86173,313.00496 H 90.954784"
+       id="path583953-4-9-7-4"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend-0)"
+       d="M 90.402047,226.27062 H 122.31492"
+       id="path583953-4-4"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-59.826767"
+       y="243.05777"
+       id="text3011-19"><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
+         x="-59.826767"
+         y="243.05777"
+         id="tspan3020-4">log likelihood test function</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-59.826767"
+       y="257.96744"
+       id="text3011-5"><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
+         x="-59.826767"
+         y="257.96744"
+         id="tspan3020-71">multipool functions</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-59.826767"
+       y="274.21359"
+       id="text3011-26"><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
+         x="-59.826767"
+         y="274.21359"
+         id="tspan3020-28">find qtls (peaks) functions</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-59.826767"
+       y="287.54111"
+       id="text3011-6"><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
+         x="-59.826767"
+         y="287.54111"
+         id="tspan3020-49">adjusr for chromosome size and</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.700205;stroke-width:0.264583"
+         x="-59.826767"
+         y="291.50986"
+         id="tspan708085">get plot coordonotate</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M -8.2478576,226.33472 V 438.37733"
+       id="path583953-3"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M -8.3674538,300.3863 H -20.093703"
+       id="path583953-6-7"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend-1-1)"
+       d="M 50.490088,136.96479 V 153.4009"
+       id="path583953-4-94-2"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend-1-4)"
+       d="m 50.490088,189.88752 v 15.90694"
+       id="path583953-4-94-0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend-1-5)"
+       d="m 50.490088,246.24164 v 8.23131"
+       id="path583953-4-94-9"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend-1-2-7)"
+       d="m 48.902587,345.93344 v 8.49862"
+       id="path583953-4-94-8-7"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend-1-9)"
+       d="m 162.80722,251.72976 v 8.49862"
+       id="path583953-4-94-3"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend-1-2-4)"
+       d="m 50.490088,420.35178 v 7.74033"
+       id="path583953-4-94-8-1"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend-1-2-0)"
+       d="m 50.490088,468.26514 v 13.39205"
+       id="path583953-4-94-8-3"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend-1-2-2)"
+       d="m 50.490088,496.92777 v 14.11761"
+       id="path583953-4-94-8-4"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend-1-2-3)"
+       d="m 162.80722,459.23097 v 8.46044"
+       id="path583953-4-94-8-38"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend-1-2-3-6)"
+       d="M 162.80722,371.64471 V 383.8475"
+       id="path583953-4-94-8-38-3"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend-1-2-5)"
+       d="m 50.490088,551.56347 v 11.67362"
+       id="path583953-4-94-8-44"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend-1-2-9)"
+       d="m 162.80722,551.4762 v 13.26112"
+       id="path583953-4-94-8-0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend-1-2-8)"
+       d="m 162.80722,498.1934 v 12.92835"
+       id="path583953-4-94-8-5"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend-1-2-0-6)"
+       d="m -59.899851,459.22826 v 10.74897"
+       id="path583953-4-94-8-3-7"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend-2-57-7)"
+       d="M 214.71349,444.45805 H 90.856551"
+       id="path583953-4-9-7-2"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 106.85004,272.90966 V 334.317"
+       id="path583953-3-9"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 122.47643,272.92896 H 85.93199"
+       id="path583953-6-7-9"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 162.80024,459.27231 H 90.43613"
+       id="path583953-6-7-9-1"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 9.8512027,459.27231 H -60.03074"
+       id="path583953-6-7-9-7"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 229.23454,420.54125 H 214.70232"
+       id="path583953-6-7-9-6"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 229.21653,464.37127 H 214.59704"
+       id="path583953-6-7-9-8"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 214.6675,420.40896 v 44.0946"
+       id="path583953-3-9-3"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M -8.24983,381.93967 H -19.923441"
+       id="path583953-6-7-9-1-9"
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>

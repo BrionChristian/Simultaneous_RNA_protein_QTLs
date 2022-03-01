@@ -1,3 +1,12 @@
+# Author: Christian Brion - 2020 - UMN
+#
+#-merge QTL data across replicates
+#-save merged QTL data in txt file
+#-save merged data in R files
+#-provide figures for tagged gene
+#-compare QTL curve to previous QTL analysis and save output summary text file
+#
+
 alignmentDir <- "C:/Users/brion/Dropbox/Gdrive/MN_postdoc/diverR/190208-AllQTLprocess/"
 setwd(alignmentDir)
 
@@ -49,7 +58,7 @@ final_eQTLtrans<-final_eQTL[final_eQTL$cis==F,]
 xpQTL2ACT1<-xpQTL2[xpQTL2$geneName=="ACT1",]
 
 
-#table with summury of all the QTL experiment
+#table with summary of all the QTL experiment
 experimentFile <- read.table(paste(alignmentDir,"AllPoprecap.txt",sep=""), stringsAsFactors=FALSE, head=TRUE, na.strings = "")
 experimentFile$tube<-paste(experimentFile$gene,experimentFile$crispr,experimentFile$rep,experimentFile$tech,sep="_")
 experimentFile$exp<-paste(experimentFile$gene,substr(experimentFile$crispr,1,1),sep="_")

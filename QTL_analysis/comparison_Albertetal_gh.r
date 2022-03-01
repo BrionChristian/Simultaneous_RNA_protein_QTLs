@@ -1,3 +1,10 @@
+# Author: Christian Brion - 2020 - UMN
+#
+#-filter the comparative tables (LOD>4.5) & chr14 MKT1 excusion
+#-plot and statistical analysis of the comparison
+#
+#
+
 library(plyr)
 library(reshape2)
 
@@ -10,7 +17,10 @@ compa_GFPdf<-read.table(paste(alignmentDir,"compa_GFPdf.txt",sep=""), stringsAsF
 compa_mCHdf<-read.table(paste(alignmentDir,"compa_mCHdf.txt",sep=""), stringsAsFactors=FALSE, head=TRUE, na.strings = "")
 
 
-#GFP comparizon
+#===============
+#protein (GFP) comparison
+
+
 summary(as.factor(compa_GFPdf$correspond))
 compa_GFPdftrue<-compa_GFPdf[!(compa_GFPdf$names %in% c("RPS10A","CTS1","NA","TDH3")),]
 summary(as.factor(compa_GFPdftrue$correspond))
@@ -60,6 +70,8 @@ summary(as.factor(compa_GFPdftrue245$correspond))
 
 write.table(x = compa_GFPdftrue245,file = "processGFPcompa.txt",quote = F,sep = "\t",row.names = F,col.names = T)
 
+#===============
+#RNA (mCh) comparison
 
 min(compa_mCHdf$albertLOD[compa_mCHdf$albertLOD>0])
 summary(as.factor(compa_mCHdf$correspond))

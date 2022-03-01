@@ -1,3 +1,12 @@
+# Author: Christian Brion - 2020 - UMN
+#
+#-perform the multipool bulk QTL analysis experiment per experiment
+#-save raw QTL data in txt file
+#-save processed comparative data in R files
+#-provide figures for each QTL analysis
+#
+
+
 alignmentDir <- "/home/christian/Dropbox/Gdrive/MN_postdoc/diverR/190208-AllQTLprocess/"
 setwd(alignmentDir)
 

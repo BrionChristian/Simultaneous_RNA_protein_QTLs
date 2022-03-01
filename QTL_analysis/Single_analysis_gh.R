@@ -1,3 +1,10 @@
+# Author: Christian Brion - 2020 - UMN
+#
+#-convert allele frequency vcf files into R data
+#-prepare meta files with the list of populations
+#-provide allele frequency figures for QC
+#
+
 library("VariantAnnotation")
 source(paste(alignmentDir,"/Scripts/x_qtl_seq_functions_170831.R",sep=""))
 
@@ -22,8 +29,6 @@ sgd_table <- paste(alignmentDir,"/Scripts/sacCer3ChromLenghts.txt",sep="")
 
 
 # common annotations, functions, etc
-
-
 geneInfo = read.table(paste(alignmentDir,"/Scripts/ensemblGenes_ensembl83_160307_MOD.txt",sep=""), stringsAsFactors=FALSE, sep="\t", header=TRUE)
 rownames(geneInfo) <- geneInfo[,"geneID"]
 allNames <- geneInfo[, "geneName"]
@@ -33,16 +38,9 @@ allNamesInv <- names(allNames)
 names(allNamesInv) <- allNames
 
 sepBetweenChr <- 1e5
-trimFromEnd = 15e3
-obsMin <- 10
 LoessSpan = 0.1
-AFThres = 0.09653124 # same as in Albert 2014
-multiThres = 4.5 # LOD threshold ofr multipool, if run with N=1000
 
 # done reading annotation files, now get to work
-
-
-
 FileList <- dir(paste(alignmentDir2,"alignments",sep=""), pattern="vcf", full.names=TRUE)
 
 finalINFO<-as.data.frame(matrix("",nrow = length(FileList),ncol = 8),stringsAsFactors=F)

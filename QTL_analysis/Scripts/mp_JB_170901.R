@@ -1,3 +1,5 @@
+#multipool (from Bloom/Albert)
+
 readf.binned = function(fin,res) {
     dfs    = read.delim(fin, header=F, sep='\t')
     #    nout   = round(max(dfs[,1])/res)+1

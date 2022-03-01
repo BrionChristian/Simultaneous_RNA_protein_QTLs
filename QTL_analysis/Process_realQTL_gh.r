@@ -1,3 +1,10 @@
+# Author: Christian Brion - 2020 - UMN
+#
+#-compare and merge RNA and protein QTL
+#-data visualization
+#-statistical tests
+#
+
 library(plyr)
 library(reshape2)
 
@@ -150,7 +157,7 @@ summary(as.factor(finalcumul3$type))
 summary(as.factor(finalcumul3$type[finalcumul3$GFP_LOD>4.5 | finalcumul3$mCH_LOD>4.5]))
 summary(as.factor(finalcumul3$type[finalcumul3$GFP_LOD>10 | finalcumul3$mCH_LOD>10]))
 
-#manual curration
+#manual correction
 finalcumul3[finalcumul3$type %in% c("oposite_mch","together_mch"),]
 finalcumul3$type[finalcumul3$type %in% c("oposite_mch","together_mch") & finalcumul3$gene=="GPD1"]<-"mch"
 finalcumul3$type[finalcumul3$type %in% c("oposite_mch","together_mch") & finalcumul3$gene=="ARO8"]<-"together"
